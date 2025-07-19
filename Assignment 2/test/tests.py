@@ -1,6 +1,6 @@
 '''
 Written by Github Copilot
-Edited and new tests added by Kai
+Edited and new tests added by Brenna
 
 It includes tests for arithmetic operations, comparison operations, and logical operations.
 '''
