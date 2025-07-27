@@ -1,0 +1,38 @@
+PS C:\Users\kai\Desktop\chatbot-tensorflow-v2.0_Capella\Assignment 03> python .\i_can_flow.py
+Hello Adventurer!
+
+I am a silly goose of a bot here to have an adventure with you!
+
+What kind of adventure do you want to have?
+
+Some examples are:
+
+- Alternative history
+- Fantasy
+- Science Fiction
+- Mystery
+- Horror
+
+To end the chat session, simply type 'stop'
+
+Let's get started!
+
+🎤: Horror
+You have chosen the genre: Horror
+
+
+Black Hollow Academy was built in 1812, a sprawling estate of cold stone and older secrets. The new scholarship students arrived just before winter—seven of them, handpicked. The eighth bed in the dormitory is always made, though no one remembers doing it. At night, they hear it creak as if someone is lying down… and each morning, one of them wakes up with someone else's nightmare.
+What's your student's name: Kai
+Describe your student: Scared of everything
+Brace yourself Kai, the nightmare is just beginning!
+
+
+You hear whispers in the hallways, shadows moving where there should be none. The headmaster is strict, but there's something off about him. The other students are friendly, but their eyes seem to hold secrets.
+Do you want to visit the library or talk to the headmaster? Alternatively, you can gather with the other students to share stories of the strange occurrences.
+👻: other students
+You gather with the other students, sharing stories of strange occurrences...
+One of them mentions a secret passage in the basement that leads to an old chapel.
+Do you want to explore the passage or stay with the group? (explore/stay): stay
+You choose to stay with the group, but the whispers in the back of your mind grow louder...
+Your head is swimming as the voices swell and you're not sure how much more of this school you can take.
+👻:

@@ -1,0 +1,40 @@
+PS C:\Users\kai\Desktop\chatbot-tensorflow-v2.0_Capella\Assignment 03> python .\i_can_flow.py
+Hello Adventurer!
+
+I am a silly goose of a bot here to have an adventure with you!
+
+What kind of adventure do you want to have?
+
+Some examples are:
+
+- Alternative history
+- Fantasy
+- Science Fiction
+- Mystery
+- Horror
+
+To end the chat session, simply type 'stop'
+
+Let's get started!
+
+🎤: horror
+You have chosen the genre: Horror
+
+
+Black Hollow Academy was built in 1812, a sprawling estate of cold stone and older secrets. The new scholarship students arrived just before winter—seven of them, handpicked. The eighth bed in the dormitory is always made, though no one remembers doing it. At night, they hear it creak as if someone is lying down… and each morning, one of them wakes up with someone else's nightmare.
+What's your student's name: kai
+Describe your student: scared of everything
+Brace yourself kai, the nightmare is just beginning!
+
+
+You hear whispers in the hallways, shadows moving where there should be none. The headmaster is strict, but there's something off about him. The other students are friendly, but their eyes seem to hold secrets.
+Do you want to visit the library or talk to the headmaster? Alternatively, you can gather with the other students to share stories of the strange occurrences.
+👻: none
+That's not a valid choice. Please try again.
+Please make a valid choice.
+👻: library
+You enter the library, the smell of old books fills the air. You find a dusty tome that seems to call to you...
+Do you want to read the tome or put it back? (read/put back): put back
+You decide not to disturb the tome, but you can't shake the feeling that it holds important information.
+You leave the library, but the whispers seem louder now, as if the tome is angry at being ignored.
+👻:
