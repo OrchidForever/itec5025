@@ -60,7 +60,8 @@ Currently, the **horror** genre is the most developed storyline.
 
 ## NEW Bugs
 
-- Emoji is unhappy. it always says none. 
+- ~~Emoji is unhappy. it always says none.~~ Fixed when doing code review with Github Copilot
 - Translations are not always right. May need to add spaces to ensure the translation comes out better.
 - MAN there is no space between my input and the printed text. Looks bad man.
-- Exiting now causes issues. Has to do with async/await
+- Exiting now causes issues (ctrl + c). Has to do with async/await
+- Refactor the choices to more readable functions. They getting long

@@ -1,8 +1,8 @@
 PS C:\Users\b.auker\repos\school\itec5025\Assignment 04> python i_can_translate.py
 Hello Adventurer!
 
-I am a silly goose of a bot here to have an adventure with you!
-
+I am a silly goose of a bot here to have an adventure with you!                                                                                                     s extraños y que no debes preocuparte por eso. Despué
+                                                                                                                                                                     (Presione/Drop):
 What kind of adventure do you want to have?
 
 Some examples are:
@@ -24,17 +24,7 @@ Enter the destination language code (e.g., 'es' for Spanish): es
 El lenguaje se ha establecido en el código: ES
 ¡Hola aventurero!
 
-¡Soy un tonto de un bot para tener una aventura contigo!     
-
-¿Qué tipo de aventura quieres tener?
-
-
 ¡Soy un tonto de un bot para tener una aventura contigo!
-
-¿Qué tipo de aventura quieres tener?
-
-
-¿Qué tipo de aventura quieres tener?
 
 ¿Qué tipo de aventura quieres tener?
 
@@ -46,81 +36,32 @@ Algunos ejemplos son:
 - Misterio
 - Horror
 
-- Historia alternativa
-- Fantasía
-- Ciencia ficción
-- Misterio
-- Horror
-- Fantasía
-- Ciencia ficción
-- Misterio
-- Horror
-- Misterio
-- Horror
-
 Para finalizar la sesión de chat, simplemente escriba 'parar'
-Para finalizar la sesión de chat, simplemente escriba 'parar'
-
-
-Si quieres cambiar tu idioma, ¡hazme saber!
 
 Si quieres cambiar tu idioma, ¡hazme saber!
 
 ¡Comencemos!
 🎤: horror
 Has elegido el género: horror
-
-¡Comencemos!
-🎤: horror
-Has elegido el género: horror
-Black Hollow Academy se construyó en 1812, una amplia finca de piedra fría y secretos más antiguos. Los nuevos estudiantes de beca llegaron justo antes del invierno, siete de ellos, seleccionados. La 
-¡Comencemos!
-🎤: horror
-Has elegido el género: horror
-Black Hollow Academy se construyó en 1812, una amplia finca de piedra fría y secretos más antiguos. Los nuevos estudiantes de beca llegaron justo antes del invierno, siete de ellos, seleccionados. La 
-Has elegido el género: horror
-Black Hollow Academy se construyó en 1812, una amplia finca de piedra fría y secretos más antiguos. Los nuevos estudiantes de beca llegaron justo antes del invierno, siete de ellos, seleccionados. La 
-octava cama en el dormitorio siempre se hace, aunque nadie recuerda haberlo hecho. Por la noche, lo escuchan crujido como si alguien estuviera acostado ... y cada mañana, uno de ellos se despierta con la pesadilla de otra persona.
-Black Hollow Academy se construyó en 1812, una amplia finca de piedra fría y secretos más antiguos. Los nuevos estudiantes de beca llegaron justo antes del invierno, siete de ellos, seleccionados. La 
-octava cama en el dormitorio siempre se hace, aunque nadie recuerda haberlo hecho. Por la noche, lo escuchan crujido como si alguien estuviera acostado ... y cada mañana, uno de ellos se despierta con la pesadilla de otra persona.
+Black Hollow Academy se construyó en 1812, una amplia finca de piedra fría y secretos más antiguos. 
+Los nuevos estudiantes de beca llegaron justo antes del invierno, siete de ellos, seleccionados.
+Siempre se hace la octava cama en el dormitorio, aunque nadie recuerda haberlo hecho ...
 ¿Cuál es el nombre de tu estudiante?Kai
-Describe a tu estudiante:here
-octava cama en el dormitorio siempre se hace, aunque nadie recuerda haberlo hecho. Por la noche, lo escuchan crujido como si alguien estuviera acostado ... y cada mañana, uno de ellos se despierta con la pesadilla de otra persona.
-¿Cuál es el nombre de tu estudiante?Kai
-Describe a tu estudiante:here
- la pesadilla de otra persona.
-¿Cuál es el nombre de tu estudiante?Kai
-Describe a tu estudiante:here
-¿Cuál es el nombre de tu estudiante?Kai
-Describe a tu estudiante:here
+Describe a tu estudiante:Here
 ¡Prepárate Kai, la pesadilla recién comienza!
-Escuchas susurros en los pasillos, sombras que se mueven donde no debería haber ninguno. El director es estricto, pero hay algo en lo que hay en él. Los otros estudiantes son amigables, pero sus ojos 
-parecen sostener secretos.
+Escuchas susurros en los pasillos, sombras que se mueven donde no debería haber ninguno. El director es estricto, pero hay algo en lo que hay en él. Los otros estudiantes son amigables, pero sus ojos parecen sostener secretos.
 ¿Quieres visitar la biblioteca o hablar con el director? Alternativamente, puede reunirse con los otros estudiantes para compartir historias de los extraños sucesos.
-Escuchas susurros en los pasillos, sombras que se mueven donde no debería haber ninguno. El director es estricto, pero hay algo en lo que hay en él. Los otros estudiantes son amigables, pero sus ojos 
-parecen sostener secretos.
-¿Quieres visitar la biblioteca o hablar con el director? Alternativamente, puede reunirse con los otros estudiantes para compartir historias de los extraños sucesos.
-parecen sostener secretos.
-¿Quieres visitar la biblioteca o hablar con el director? Alternativamente, puede reunirse con los otros estudiantes para compartir historias de los extraños sucesos.
-¿Quieres visitar la biblioteca o hablar con el director? Alternativamente, puede reunirse con los otros estudiantes para compartir historias de los extraños sucesos.
-None: el director
-Esa no es una opción válida. Por favor intente de nuevo.
-None: director de escuela
-Intentas reunirte con el director pero él no está allí ... sientes una sensación de inquietud cuando te das cuenta de que podría estar ocultando algo.
-None: director de escuela
-Intentas reunirte con el director pero él no está allí ... sientes una sensación de inquietud cuando te das cuenta de que podría estar ocultando algo.
+👻: director de escuela
 Intentas reunirte con el director pero él no está allí ... sientes una sensación de inquietud cuando te das cuenta de que podría estar ocultando algo.
 Usted decide investigar su oficina, pero está cerrado. Escuchas ruidos extraños que vienen de detrás de la puerta ...
-¿Quieres intentar elegir la cerradura o dejarla solo? (Pick/Leave):elegir
+¿Quieres intentar elegir la cerradura o dejarla solo? (Pick / Leave):elegir
 Se las arregla para elegir el bloqueo y ingresar a la oficina. Las paredes están llenas de retratos de los Headmasters anteriores, sus ojos parecen seguirte.
 Encuentra un cajón oculto en el escritorio que contiene una llave y una carta que revela el pasado oscuro del director.
 Los susurros en tu cabeza solo parecen hacerse más fuertes, pero sientes una sensación de determinación de descubrir la verdad.
 ¿Quieres seguir explorando la academia o enfrentar al director? (explorar/confront):
-None: confront
-Esa no es una opción válida. Por favor intente de nuevo.
-None: confrontar
-Decides enfrentar al director sobre los susurros y los extraños ocurrencias ...
+👻: explorar
+Decides explorar más la academia, profundizando en sus esquinas oscuras y descubriendo más secretos ...
 
-No está en su oficina, así que lo buscas. Parece sorprendido, pero rápidamente recupera su compostura. Él te dice que la Academia tiene una larga historia de eventos extraños y que no debes preocuparte por eso. Después de todo, tienen muchos graduados distinguidos y harías bien en tratar de ser uno de ellos. ¿Quieres presionarlo para obtener más información o dejar caer el tema? (Presione/Drop):  
-None: stop
+Te encuentras con una extraña estatua de cuervo y no estás seguro de si es un secreto o no. Los susurros en su cabeza se vuelven más fuertes, instándole a investigar más. ¿Quieres tocar la estatua o encontrar algo más que hacer? (toque/siguiente):
+👻: stop
 Thank you for the adventure! Goodbye! 🦆

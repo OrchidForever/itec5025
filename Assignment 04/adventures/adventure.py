@@ -10,14 +10,15 @@ from texts.translate import translate_text, translate_text_print
 class Adventure:
     """A simple class to represent an adventure."""
     ## ["alternative history", "fantasy", "science fiction", "mystery", "horror"]
-    genre = ""
-    characterName = ""
-    characterDescription = ""
-    emoji = "🎤"
+    genre: str = ""
+    character_name: str = ""
+    character_description: str = ""
+    emoji: str = "🎤"
+
     def __init__(self, genre: str):
         self.genre = genre
 
-    async def start(self, language) -> Any | str:
+    async def start(self, language: str) -> str:
         """Start the adventure based on the genre."""
         if self.genre == "alternative history":
             await self.start_alternative_history(language)
@@ -81,7 +82,7 @@ class Adventure:
         final_text = f"Greetings {self.characterName}, prepare for liftoff!"
         _ = await translate_text_print(final_text, language)
 
-    async def first_choice(self, user_input: str, language: str):
+    async def first_choice(self, user_input: str, language: str) -> int:
         points = 0
         if self.genre == "alternative history":
             await self.start_alternative_history(language)
@@ -99,7 +100,7 @@ class Adventure:
         
         return points
 
-    async def second_choice(self, user_input: str, language: str):
+    async def second_choice(self, user_input: str, language: str) -> int:
         points = 0
         if self.genre == "alternative history":
             points = await self.process_alternative_history_choice(user_input, language)

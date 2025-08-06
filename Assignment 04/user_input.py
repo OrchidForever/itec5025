@@ -25,7 +25,7 @@ class UserInput:
                 error_text = f"Invalid genre: {self.user_input}. Please choose a valid genre from the list."
                 _ = await translate_text(error_text, self.language)
                 return False
-        elif(self.step == 1):
+        elif(self.step == 1 and self.adventure):
             points = await self.adventure.first_choice(self.user_input, self.language)
             if points == 0:
                 error_text = f"Invalid choice: {self.user_input}. Please make a valid choice."
@@ -33,7 +33,7 @@ class UserInput:
             else:
                 self.points += points
                 self.step = 2
-        elif(self.step == 2):
+        elif(self.step == 2 and self.adventure):
             points = await self.adventure.second_choice(self.user_input, self.language)
             if points == 0:
                 error_text = f"Invalid choice: {self.user_input}. Please make a valid choice."
