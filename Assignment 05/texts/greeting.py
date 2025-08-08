@@ -1,0 +1,4 @@
+GREETINGS = "Hello Adventurer!\n\nI am a silly goose of a bot here to have an adventure with you!\n\nWhat kind of adventure do you want to have?\n\nSome examples are:\n\n- Alternative history\n- Fantasy\n- Science Fiction\n- Mystery\n- Horror\n\nTo end the chat session, simply type 'stop'\n\nIf you want to change your language, just let me know!\n\nLet's get started!\n"
+
+
+ALT_GREETINGS = "Welcome back Adventurer!\n\nI am a silly goose of a bot here to have another adventure with you!\n\nWhat kind of adventure do you want to have this time?\n\nSome examples are:\n\n- Alternative history\n- Fantasy\n- Science Fiction\n- Mystery\n- Horror\n\nTo end the chat session, simply type 'stop'\n\nIf you want to change your language, just let me know!\n\nLet's get started!\n"
