@@ -19,6 +19,7 @@ HORROR_STORY = {
     "failure_text": "You have failed to uncover the secrets of Black Hollow Academy. The whispers grow louder, and you feel a sense of dread as you leave the academy behind.",
     "valid_choices_1": ["library", "headmaster", "students"],
     "valid_choices_2": ["explore", "confront", "leave"],
+    "end_story_text": "The end of the year is wrapping up. The whispers in your head are louder than ever, but you feel a sense of accomplishment for surviving a year at Black Hollow Academy. Some were not as accomplished as you. (continue):",
     "max_success_points": 4,
     "min_success_points": 2,
     "options": [

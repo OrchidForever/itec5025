@@ -1,0 +1,150 @@
+PS C:\Users\kai\Desktop\chatbot-tensorflow-v2.0_Capella\Assignment 05> python .\data_set.py
+Hello Adventurer!
+
+I am a silly goose of a bot here to have an adventure with you!
+
+What kind of adventure do you want to have?
+
+Some examples are:
+
+- Alternative history
+- Fantasy
+- Science Fiction
+- Mystery
+- Horror
+
+To end the chat session, simply type 'stop'
+
+If you want to change your language, just let me know!
+
+Let's get started!
+
+🎤: horror
+You have chosen the genre: horror
+Black Hollow Academy was built in 1812, a sprawling estate of cold stone and older secrets. 
+    The new scholarship students arrived just before winter—seven of them, handpicked.      
+    The eighth bed in the dormitory is always made, though no one remembers doing it...     
+You hear whispers in the hallways, shadows moving where there should be none. The headmaster is strict, but there's something 
+off about him. The other students are friendly, but their eyes seem to hold secrets.
+
+Do you want to visit the library or talk to the headmaster? Alternatively, you can gather with the other students to share stories of the strange occurrences. ( library / headmaster /students ):
+👻: library
+You enter the library, the smell of old books fills the air. You find a dusty tome that seems to call to you...
+
+Do you want to read the tome or put it back? (read / put back): read
+As you read, the words seem to shift and change, revealing a dark secret about the academy...
+You gain the tome's knowledge, but at a cost. You feel a chill run down your spine as you realize the truth about the academy's past.
+You now have a clue about the headmaster's true intentions and the dark history of Black Hollow Academy.
+The whispers in your head only seem to grow louder, but you feel a sense of determination to uncover the truth.
+Do you want to continue exploring the academy or leave? ( explore / leave ):
+👻: explore
+You decide to explore the academy further, delving into its dark corners and uncovering more secrets...
+
+You come across a weird raven statue and you're not sure if it's a secret or not. The whispers in your head grow louder, urging you to investigate further. Do you want to touch the statue or find something else to do? (touch/next): touch
+You reach out and touch the raven statue. Suddenly, the whispers intensify, and you feel a surge of energy coursing through you...
+You gain a new ability to communicate with the spirits of the academy.
+The end of the year is wrapping up. The whispers in your head are louder than ever, but you feel a sense of accomplishment for surviving a year at Black Hollow Academy. Some 
+were not as accomplished as you. (continue):
+👻: continue
+You have discovered some unsettling truths about Black Hollow Academy. You know there is more to discover but you need to be careful. Next year.
+Welcome back Adventurer!
+
+I am a silly goose of a bot here to have another adventure with you!
+
+What kind of adventure do you want to have this time?
+
+Some examples are:
+
+- Alternative history
+- Fantasy
+- Science Fiction
+- Mystery
+- Horror
+
+To end the chat session, simply type 'stop'
+
+If you want to change your language, just let me know!
+
+Let's get started!
+🎤: change language
+Enter the destination language code (e.g., 'es' for Spanish): es
+El lenguaje se ha establecido en el código: ES
+¡Hola aventurero!
+
+¡Soy un tonto de un bot para tener una aventura contigo!
+
+¿Qué tipo de aventura quieres tener?
+
+Algunos ejemplos son:
+
+- Historia alternativa
+- Fantasía
+- Ciencia ficción
+- Misterio
+- Horror
+
+Para finalizar la sesión de chat, simplemente escriba 'parar'
+
+Si quieres cambiar tu idioma, ¡hazme saber!
+
+¡Comencemos!
+🎤: horror
+Has elegido el género: horror
+Black Hollow Academy se construyó en 1812, una amplia finca de piedra fría y secretos más antiguos.
+    Los nuevos estudiantes de beca llegaron justo antes del invierno, siete de ellos, seleccionados.
+    Siempre se hace la octava cama en el dormitorio, aunque nadie recuerda haberlo hecho ...
+Escuchas susurros en los pasillos, sombras que se mueven donde no debería haber ninguno. El director es estricto, pero hay algo en lo que hay en él. Los otros estudiantes son amigables, pero sus ojos parecen sostener secretos.
+
+¿Quieres visitar la biblioteca o hablar con el director? Alternativamente, puede reunirse con los otros estudiantes para compartir historias de los extraños sucesos. (Biblioteca / Director / Estudiantes):
+👻: Director
+Elección no válida: Director. Haga una elección válida.
+👻: director de escuela
+Intentas reunirte con el director pero él no está allí ... sientes una sensación de inquietud cuando te das cuenta de que podría estar ocultando algo.
+Usted decide investigar su oficina, pero está cerrado. Escuchas ruidos extraños que vienen de detrás de la puerta ...
+
+¿Quieres intentar elegir la cerradura o dejarla solo? (elija el bloqueo / permiso): elija el bloqueo
+Invalid choice: director de escuela. Please make a valid choice.
+👻: director de escuela 
+Intentas reunirte con el director pero él no está allí ... sientes una sensación de inquietud cuando te das cuenta de que podría estar ocultando algo.
+Usted decide investigar su oficina, pero está cerrado. Escuchas ruidos extraños que vienen de detrás de la puerta ...
+
+¿Quieres intentar elegir la cerradura o dejarla solo? (elija el bloqueo / permiso): permiso
+Invalid choice: director de escuela. Please make a valid choice.
+👻: director de escuela
+Intentas reunirte con el director pero él no está allí ... sientes una sensación de inquietud cuando te das cuenta de que podría estar ocultando algo.
+Usted decide investigar su oficina, pero está cerrado. Escuchas ruidos extraños que vienen de detrás de la puerta ...
+
+¿Quieres intentar elegir la cerradura o dejarla solo? (elija el bloqueo / permiso): dejar
+Decides dejar la oficina solo, pero no puedes sacudir la sensación de que el Director está ocultando algo importante.
+Mientras te alejas, escuchas un leve susurro detrás de ti, como si el director te estuviera mirando ...
+Tu cabeza está nadando a medida que las voces se hinchan y no estás seguro de cuánto más de esta escuela puedes tomar.
+¿Quieres seguir explorando la academia o irte? (explorar / dejar):
+👻: dejar
+Decides dejar la academia, pero los susurros te siguen ...
+
+A medida que te alejas, sientes que un escalofrío corre por tu columna vertebral. Es posible que los secretos de la academia nunca se descubran, pero no se puede sacudir la sensación de que algo oscuro está al acecho justo debajo de la superficie. ¿Quieres buscar fuera de la academia o dejar tu viaje? (buscar/dejar): dejar
+Decides dejar tu viaje, pero los susurros continúan persiguiéndote. No puedes sacudir la sensación de que los secretos de la academia siempre permanecerán fuera de alcance.
+Te vas con una sensación de inquietud, sabiendo que la verdad nunca puede ser completamente revelada.
+El fin de año está terminando. Los susurros en tu cabeza son más fuertes que nunca, pero sientes una sensación de logro para sobrevivir un año en Black Hollow Academy. Algunos no fueron tan logrados como tú. (continuar):
+👻: continuar
+No has podido descubrir los secretos de Black Hollow Academy. Los susurros se vuelven más fuertes, y sientes una sensación de temor cuando dejas atrás la academia.
+¡Bienvenido aventurero!
+
+¡Soy un tonto de un bot para tener otra aventura contigo!
+
+¿Qué tipo de aventura quieres tener esta vez?
+
+Algunos ejemplos son:
+
+- Historia alternativa
+- Fantasía
+- Ciencia ficción
+- Misterio
+- Horror
+
+Para finalizar la sesión de chat, simplemente escriba 'parar'
+
+Si quieres cambiar tu idioma, ¡hazme saber!
+
+¡Comencemos!
+🎤:

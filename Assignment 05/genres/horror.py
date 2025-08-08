@@ -31,10 +31,13 @@ async def choice_horror(user_input: str, language: str, step: int) -> int:
                     break
 
     if points != 0:
-        message = HORROR_STORY["negative_message"] if points < 0 else HORROR_STORY["positive_message"]
-        _ = await translate_text_print(message, language)
-        next_choice_text = HORROR_STORY["choice_text_1_max"] if points == MAJOR_DISCOVERY_POINTS else HORROR_STORY["choice_text_1_other"]
-        _ = await translate_text_print(next_choice_text, language)
+        if step == 1:
+            message = HORROR_STORY["negative_message"] if points < 0 else HORROR_STORY["positive_message"]
+            _ = await translate_text_print(message, language)
+            next_choice_text = HORROR_STORY["choice_text_1_max"] if points == MAJOR_DISCOVERY_POINTS else HORROR_STORY["choice_text_1_other"]
+            _ = await translate_text_print(next_choice_text, language)
+        elif step == 2:
+            _ = await translate_text_print(HORROR_STORY["end_story_text"], language)
     return points
 
 async def end_horror_story(language: str, points: int) -> str:

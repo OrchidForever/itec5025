@@ -1,4 +1,4 @@
-# Assignment 4
+# Assignment 5
 
 ## Author
 Brenna Auker
@@ -11,12 +11,14 @@ ITEC 5025
 ## Project Structure
 
 ```
-Assignment 04/
+Assignment 05/
 ├── adventures/
-│   └── adventure.py          # Main adventure class with async methods and translation support
+│   └── adventure.py          # Main adventure class with async methods and translation 
+├── data/
+├   ├── stories.py            # Main JSON data for the various stories.
 ├── genres/
 │   ├── __init__.py
-│   ├── horror.py             # Horror storyline (fully developed with choices)
+│   ├── horror.py             # Horror storyline (mostly developed with choices)
 │   └── mystery.py            # Mystery storyline (basic implementation)
 ├── texts/
 │   ├── greeting.py           # Welcome messages
@@ -24,21 +26,21 @@ Assignment 04/
 │   ├── print_error.py        # Error handling messages
 │   └── translate.py          # Translation functionality using Google Translate API
 ├── terminal_outputs/         # Sample outputs and screenshots
-├── user_input.py             # User input processing and game state
-├── i_can_translate.py        # Main application entry point with translation support
+├── data_set.py               # User input processing and game state
 └── README.md
+├── user_input.py             # Main file the processes what the user inputed. 
 ```
 
 ## How to Run
 
 1. Navigate to the project directory:
    ```bash
-   cd "Assignment 04"
+   cd "Assignment 05"
    ```
 
 2. Run the main application:
    ```bash
-   python i_can_translate.py
+   python data_set.py
    ```
 
 ## How to Play
@@ -58,10 +60,10 @@ Currently, the **horror** genre is the most developed storyline.
 - 🚧 **Fantasy**: Character creation and basic setup  
 - 🚧 **Science Fiction**: Character creation and basic setup
 
-## NEW Bugs
+## Bugs
 
-- ~~Emoji is unhappy. it always says none.~~ Fixed when doing code review with Github Copilot
-- Translations are not always right. May need to add spaces to ensure the translation comes out better.
+- Translations are not always right. May need to add spaces to ensure the translation comes out better. Or more words? But then it messes up how I am looking for choices. Might to rethink my keywords to make it work better overall.
 - MAN there is no space between my input and the printed text. Looks bad man.
-- Exiting now causes issues (ctrl + c). Has to do with async/await
-- Refactor the choices to more readable functions. They getting long
+- When the sub choice is made, and it's incorrect, it will bounce you back to the first choice. Need to fix that.
+- ~~Exiting now causes issues (ctrl + c). Has to do with async/await~~ Fixed by wrapping my call to main in try catch.
+- ~~Refactor the choices to more readable functions. They getting long~~ Using a dataset solved this problem.

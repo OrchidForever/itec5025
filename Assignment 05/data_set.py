@@ -3,6 +3,7 @@ from user_input import UserInput
 from texts.exit import print_exit
 from texts.print_error import print_error
 from texts.translate import translate_text_print
+import asyncio
 
 async def main():
     try:
@@ -21,7 +22,7 @@ async def main():
                 except Exception as e:
                     print("Not a valid language code.")
                 
-                await translate_text_print(print_greetings(), language)
+                await translate_text_print(GREETINGS, language)
                 continue
             elif await user.process_input(user_input):
                 continue
@@ -32,9 +33,10 @@ async def main():
         print("\n\nOh! Looks like you pressed Ctrl+C. Instead of stop. Rude.")
         print("Goodbye! 🦆")
     except EOFError:
-        print("\n\nInput stream ended.")
         print_exit()
 
 if __name__ == "__main__":
-    import asyncio
-    asyncio.run(main())
+    try:
+        asyncio.run(main())
+    except KeyboardInterrupt:
+        print("\n\nOh! Looks like you pressed Ctrl+C. Instead of stop. Rude.")
