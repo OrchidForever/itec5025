@@ -1,12 +1,43 @@
-# chatbot-tensorflow-v2.0
+# Assignment 6
 
-This is a chatbot which works with tensorflow 2.1 and higher. I have tested it on tensorflow 2.3.0 and 2.1.0<br>
-It also saves wrong answers with predicted category in a text file named as 'exceptions.txt'
+## Author
+Brenna Auker
 
-Requirements:<br>
--Tensorflow 2.0 or higher<br>
--Nltk<br>
--Punkt from nltk &nbsp;&nbsp;&nbsp;&nbsp; (nltk.download('punkt'))
+*With help with Github Copilot*
 
-NOTE: This json dataset is taken from the internet, credits to the creator
+## Class
+ITEC 5025
 
+## Project Structure
+
+```
+Assignment 06
+├── chatbot.py         # Main chatbot application 
+├── requirements.txt   # Python package dependencies 
+├── README.md          # Project documentation 
+├── data/              # Data files and training materials
+└── proof/             # Documentation and proof of work
+```
+
+## How to Run
+
+1. Navigate to the project directory:
+   ```bash
+   cd "Assignment 06"
+   ```
+
+2. Install Requirements:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. Run the main application:
+   ```bash
+   python chatbot.py
+   ```
+
+## Stories Added
+
+- Horror
+- Noir Detective
+- Adventure
