@@ -7,6 +7,7 @@ from utils.clean_data import preprocess_text
 from sklearn.model_selection import train_test_split
 from tensorflow.keras.layers import TextVectorization, Input
 from tensorflow.keras.models import Model
+from tensorflow.keras import regularizers
 import csv
 
 print("TensorFlow version:", tf.__version__)
@@ -65,6 +66,8 @@ def clean_data_setup():
     #     tf.keras.layers.Dense(len(responses_set), activation='softmax')
     # ])
 
+    # accuracy: 0.1588 - loss: 3.6470 - val_accuracy: 0.0118 - val_loss: 16.9795
+    # accuracy: 0.1237 - loss: 3.5244 - val_accuracy: 0.0102 - val_loss: 16.5602 (added more data)
     model = tf.keras.Sequential([
         tf.keras.layers.Embedding(input_dim=max_vocab_size, output_dim=128, input_length=max_len),
         tf.keras.layers.Bidirectional(tf.keras.layers.LSTM(64)),
@@ -84,9 +87,29 @@ def clean_data_setup():
     # accuracy: 0.0237 - loss: 4.9634 - val_accuracy: 0.0000e+00 - val_loss: 7.6289
     # model = tf.keras.Sequential([
     #     tf.keras.layers.Embedding(input_dim=max_vocab_size, output_dim=64, input_length=max_len),
-    #     tf.keras.layers.Bidirectional(tf.keras.layers.LSTM(32)),  # Smaller LSTM units
-    #     tf.keras.layers.Dropout(0.5),  # Dropout to prevent overfitting
-    #     tf.keras.layers.Dense(len(responses_set), activation='softmax')  # Output layer directly
+    #     tf.keras.layers.Bidirectional(tf.keras.layers.LSTM(32)),  
+    #     tf.keras.layers.Dropout(0.5),  
+    #     tf.keras.layers.Dense(len(responses_set), activation='softmax')  
+    # ])
+    
+    # accuracy: 0.0029 - loss: 5.7384 - val_accuracy: 0.0345 - val_loss: 9.6914
+    # model = tf.keras.Sequential([
+    #     tf.keras.layers.Embedding(input_dim=max_vocab_size, output_dim=128, input_length=max_len),
+    #     tf.keras.layers.Bidirectional(tf.keras.layers.LSTM(64, return_sequences=True, kernel_regularizer=regularizers.l2(0.01))),
+    #     tf.keras.layers.Dropout(0.7),  # Increase dropout
+    #     tf.keras.layers.GlobalAveragePooling1D(),
+    #     tf.keras.layers.Dense(64, activation='relu', kernel_regularizer=regularizers.l2(0.01)),  # Add L2 regularization
+    #     tf.keras.layers.Dense(len(responses_set), activation='softmax')
+    # ])
+
+    # accuracy: 0.0172 - loss: 5.1801 - val_accuracy: 0.0115 - val_loss: 14.0321
+    # model = tf.keras.Sequential([
+    #     tf.keras.layers.Embedding(input_dim=max_vocab_size, output_dim=128, input_length=max_len),
+    #     tf.keras.layers.Bidirectional(tf.keras.layers.LSTM(64, return_sequences=True, kernel_regularizer=regularizers.l2(0.001))),
+    #     tf.keras.layers.Dropout(0.5),  # Decrease dropout to 0.5
+    #     tf.keras.layers.GlobalAveragePooling1D(),
+    #     tf.keras.layers.Dense(64, activation='relu', kernel_regularizer=regularizers.l2(0.001)),
+    #     tf.keras.layers.Dense(len(responses_set), activation='softmax')
     # ])
 
     model.compile(loss='sparse_categorical_crossentropy', optimizer='adam', metrics=['accuracy'])

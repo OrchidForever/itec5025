@@ -6,5 +6,6 @@ def preprocess_text(text):
     text = text.lower()
     text = re.sub(r"[^a-z0-9\s']", "", text)
     text = re.sub(r"\s+", " ", text)
-    print(f"Preprocessed text: {text}")
+    #print(f"Preprocessed text: {text}")
     return text
+    
