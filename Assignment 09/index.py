@@ -59,16 +59,16 @@ def chatbot():
             continue
 
         # New add_media turn: fill what we can, then ask for missing
-        slots = fill_slots_for_intent("add_media", user_input)
-        dialog_state["intent"] = "add_media"
+        slots = fill_slots_for_intent(intent, user_input)
+        dialog_state["intent"] = intent
         dialog_state["slots"].update({k: v for k, v in slots.items() if v})
 
-        need = missing_slots("add_media", dialog_state["slots"])
+        need = missing_slots(intent, dialog_state["slots"])
         if need:
             dialog_state["awaiting"] = need[0]
-            print("Bot:", ask_for(need[0], "add_media"))
+            print("Bot:", ask_for(need[0], intent))
         else:
-            res = ROUTES["add_media"]["fn"](**dialog_state["slots"])
+            res = ROUTES[intent]["fn"](**dialog_state["slots"])
             print("Bot:", res)
             dialog_state = {"intent": None, "slots": {}, "awaiting": None}
 

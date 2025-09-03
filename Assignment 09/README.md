@@ -20,6 +20,11 @@ ITEC 5025
     pip install -r requirements.txt
     ```
 
+3. Install spacy model
+   ```base
+   python -m spacy download en_core_web_sm
+   ```
+
 3. (Optional) Run the training code:
    ```bash
    python process_data.py
