@@ -22,7 +22,7 @@ ITEC 5025
 
 3. (Optional) Run the training code:
    ```bash
-   python preocess_data.py
+   python process_data.py
    ```
 
    If this fails, delete `processed_convo_data.csv`, `vectorized.keras`, `chatbot_model.keras`
@@ -31,7 +31,3 @@ ITEC 5025
    ```bash
    python index.py
    ```
-
-## Thoughts
-
-- Had issues with getting the numbers up and down. More data helped but also sometimes confused it. Tried a variety of model configs and left them in commented. One of my earliest ones had the best accuracy.
