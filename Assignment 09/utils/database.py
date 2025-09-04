@@ -47,6 +47,43 @@ class PostgreSQLDatabase:
             print(f"Error adding media: {e}")
             return False
 
+    def search_media(self, name):
+        if self.connection is None:
+            print("No active database connection.")
+            return []
+
+        try:
+            cursor = self.connection.cursor()
+            search_query = sql.SQL("""
+                SELECT * FROM media WHERE title ILIKE %s
+            """)
+            cursor.execute(search_query, (f"%{name}%",))
+            results = cursor.fetchall()
+            cursor.close()
+            return results
+        except psycopg2.Error as e:
+            print(f"Error searching media: {e}")
+            return []
+
+    def update_media_status(self, name, status):
+        if self.connection is None:
+            print("No active database connection.")
+            return False
+
+        try:
+            cursor = self.connection.cursor()
+            update_query = sql.SQL("""
+                UPDATE media SET status = %s WHERE title ILIKE %s
+            """)
+            cursor.execute(update_query, (status, f"%{name}%"))
+            self.connection.commit()
+            cursor.close()
+            print(f"Media '{name}' status updated to '{status}'.")
+            return True
+        except psycopg2.Error as e:
+            print(f"Error updating media status: {e}")
+            return False
+
     def execute_query(self, query, params=None):
         if self.connection is None:
             print("No active database connection.")

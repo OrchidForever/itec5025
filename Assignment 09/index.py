@@ -26,18 +26,18 @@ def chatbot():
         if user_input == 'quit':
             break
 
-
-        if dialog_state["awaiting"] and dialog_state["intent"] == "add_media":
+    
+        if dialog_state["awaiting"] and dialog_state["intent"] in ROUTES:
             slot = dialog_state["awaiting"]
             val = extract_add_media_slots(user_input).get(slot) or user_input
             dialog_state["slots"][slot] = val
             dialog_state["awaiting"] = None
-            need = missing_slots("add_media", dialog_state["slots"])
+            need = missing_slots(dialog_state["intent"], dialog_state["slots"])
             if need:
                 dialog_state["awaiting"] = need[0]
-                print("Bot:", ask_for(need[0], "add_media"))
+                print("Bot:", ask_for(need[0], dialog_state["intent"]))
                 continue
-            res = ROUTES["add_media"]["fn"](**dialog_state["slots"])
+            res = ROUTES[dialog_state["intent"]]["fn"](**dialog_state["slots"])
             print("Bot:", res)
             dialog_state = {"intent": None, "slots": {}, "awaiting": None}
             continue
@@ -50,12 +50,9 @@ def chatbot():
         # Determine intent from user input directly
         intent = get_intent_from_response(user_input)
 
-        if intent != "add_media":
+        if intent == "chitchat" or intent is None:
             # handle your other intents / canned responses as before
-            if response_index in index_to_response:
-                print("Bot:", index_to_response[response_index])
-            else:
-                print("Bot: I'm not sure how to help with that.")
+            print("Bot:", 'I am here to help with your media management needs. How can I assist you today?')
             continue
 
         # New add_media turn: fill what we can, then ask for missing

@@ -28,7 +28,7 @@ INTENT_PATTERNS = {
     },
     'search_media': {
         'keywords': search_media_keywords,
-        'slots': ["name", "owner", "location", "format"],
+        'slots': ["name"],
         'pos': ["PROPN", "NOUN", "VERB", "LOCATION", "WP", "WRB"],
         'entities': ["PERSON", "ORG", "GPE", "LOC", "PRODUCT"]
     },
