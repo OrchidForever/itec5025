@@ -8,6 +8,10 @@ Brenna Auker
 ## Class
 ITEC 5025
 
+## Important notes
+
+This chatbot uses postgres. I use a dockerfile for my postgres database but didn't include it here. It is just a basic docker image of pgvector/pg:17. I can if needed proved the docker compose needed. It doesn't need to be pgvector but I am also using this image for a personal project that uses PGVector. 
+
 ## How to Run
 
 1. Navigate to the project directory:
