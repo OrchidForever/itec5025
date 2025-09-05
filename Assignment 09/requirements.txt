@@ -3,5 +3,4 @@ tensorflow
 nltk
 scikit-learn
 pandas
-spacy
 psycopg2

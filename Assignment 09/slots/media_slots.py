@@ -1,6 +1,5 @@
 import re
 from routes.index import ROUTES
-import spacy
 
 PROMPTS = {
     ("add_media", "name"): "What's the media name? (you can put it in quotes)",
@@ -14,33 +13,6 @@ PROMPTS = {
     ("update_media_status", "name"): "Which media item do you want to update?",
     ("update_media_status", "status"): "What is the new status?"
 }
-
-add_media_keywords = ["add", "create", "new", "insert", "include", "added"]
-search_media_keywords = ["search", "find", "look for", "get", "retrieve", "where"]
-update_media_keywords = ["update", "change", "modify", "set"]
-
-INTENT_PATTERNS = {
-    'add_media': {
-        'keywords': add_media_keywords,
-        'slots': ["name", "owner", "location", "format"],
-        'pos': ["PROPN", "NOUN", "VERB", "LOCATION"],
-        'entities': ["PERSON", "ORG", "GPE", "LOC", "PRODUCT"]
-    },
-    'search_media': {
-        'keywords': search_media_keywords,
-        'slots': ["name"],
-        'pos': ["PROPN", "NOUN", "VERB", "LOCATION", "WP", "WRB"],
-        'entities': ["PERSON", "ORG", "GPE", "LOC", "PRODUCT"]
-    },
-    'update_media_status': {
-        'keywords': update_media_keywords,
-        'slots': ["name", "status"],
-        'pos': ["PROPN", "NOUN", "VERB"],
-        'entities': ["PERSON", "ORG", "GPE", "LOC", "PRODUCT", "STATUS"]
-    }
-}
-
-nlp = spacy.load("en_core_web_sm")
 
 def ask_for(slot, intent): 
     return PROMPTS.get((intent, slot), f"I need {slot}:")
@@ -119,68 +91,3 @@ def fill_slots_for_intent(intent: str, user_text: str):
 def missing_slots(intent: str, slots: dict):
     req = ROUTES[intent]["required"]
     return [k for k in req if not slots.get(k)]
-
-# Function to determine intent from response text
-# def get_intent_from_response(response_text):
-#     # Check if this looks like an add_media request
-#     add_media_keywords = ["add", "create", "new", "insert", "include"]
-
-#     search_media_keywords = ["search", "find", "look for", "get", "retrieve"]
-    
-#     update_media_keywords = ["update", "change", "modify", "set"]
-    
-#     # Convert to lowercase for comparison
-#     response_lower = response_text.lower()
-    
-#     # Check if user input contains add_media keywords
-#     for keyword in add_media_keywords:
-#         if keyword in response_lower:
-#             return "add_media"
-
-#     for keyword in search_media_keywords:
-#         if keyword in response_lower:
-#             return "search_media"
-    
-#     for keyword in update_media_keywords:
-#         if keyword in response_lower:
-#             return "update_media_status"
-
-#     # Default to chitchat for other responses
-#     return "chitchat"
-
-
-def get_intent_from_response(response_text):
-    doc = nlp(response_text.lower())
-    scores = {}
-
-    for intent, patterns in INTENT_PATTERNS.items():
-        score = 0
-        
-        # Check for entities
-        if 'entities' in patterns:
-            for ent in doc.ents:
-                if ent.label_ in patterns['entities']:
-                    score += 2
-        
-        # Check for keywords
-        if 'keywords' in patterns:
-            for token in doc:
-                if token.lemma_ in patterns['keywords']:
-                    score += 1
-        
-        # Check POS tags
-        if 'pos' in patterns:
-            for token in doc:
-                if token.pos_ in patterns['pos']:
-                    score += 1
-        
-        scores[intent] = score
-
-    print(f"The scores: {scores}")
-    # Return the intent with highest score, or 'unknown' if no clear match
-    if scores:
-        max_score = max(scores.values())
-        if max_score > 0:
-            return max(scores, key=scores.get)
-    
-    return 'chitchat'

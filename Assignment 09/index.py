@@ -1,7 +1,7 @@
 import tensorflow as tf
 import csv
 from routes.index import ROUTES
-from slots.media_slots import fill_slots_for_intent, extract_add_media_slots, missing_slots, ask_for, get_intent_from_response
+from slots.media_slots import fill_slots_for_intent, extract_add_media_slots, missing_slots, ask_for
 
 # Load model + vectorizer + response map
 model = tf.keras.models.load_model("data/chatbot_model.keras")
@@ -16,6 +16,11 @@ with open('data/processed_convo_data.csv', 'r', encoding='utf-8') as f:
     for row in reader:
         index_to_response[int(row['index'])] = row['response']
 
+intent_index_to_name = {
+    0: "add_media", 
+    1: "search_media",
+    2: "update_media_status",
+}
 
 # Chat loop
 def chatbot():
@@ -44,16 +49,11 @@ def chatbot():
 
         vec_input = vectorizer([user_input])
         pred = model.predict(vec_input)
-        response_index = tf.argmax(pred, axis=1).numpy()[0]
-        print(f"[DEBUG] Predicted class index: {response_index}")
-        
+        predicted_intent = tf.argmax(pred, axis=1).numpy()[0]
+        print(f"[DEBUG] Predicted class index: {predicted_intent}")
+        print(f"[DEBUG] Model confidence: {pred[0][predicted_intent]:.4f}")
         # Determine intent from user input directly
-        intent = get_intent_from_response(user_input)
-
-        if intent == "chitchat" or intent is None:
-            # handle your other intents / canned responses as before
-            print("Bot:", 'I am here to help with your media management needs. How can I assist you today?')
-            continue
+        intent = intent_index_to_name.get(predicted_intent, "chitchat")
 
         # New add_media turn: fill what we can, then ask for missing
         slots = fill_slots_for_intent(intent, user_input)

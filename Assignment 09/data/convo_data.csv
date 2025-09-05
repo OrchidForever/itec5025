@@ -1,732 +1,732 @@
 user_input,bot_response
-"Hey\, where's the book 'Dune'?", "Oh yeah\, 'Dune' is on the living room shelf. It's a hardcover that Tom owns. (ID: B001)"
-"Do we have 'Animal Crossing'?", "Yep! 'Animal Crossing' is a Switch game Brenna owns. It should be in the Switch game case. (ID: G004)"
-"Is 'The Last of Us Part II' a movie or a game?", "That's a PS5 game\, not a movie. Tom has it\, and it's in the media cabinet. (ID: G009)"
-"Do we own 'Harry Potter and the Sorcerer's Stone'?", "Totally. We've got it as an audiobook in Brenna's Audible account. (ID: A003)"
-"Where can I find 'Blade Runner 2049'?", "'Blade Runner 2049' is a Blu-ray that Tom owns. It's in the top drawer of the TV console. (ID: D006)"
-"Can I play 'Cyberpunk 2077' on the PS5?", "Not exactly — it's the Steam version Tom owns\, so it's digital. (ID: G012)"
-"Which Switch games does Brenna have?", "Brenna's got 'Animal Crossing' and 'Stardew Valley' for Switch. Both are in the game case. (IDs: G004\, G015)"
-"What's the format for 'Pride and Prejudice'?", "It's a paperback book. Brenna owns it\, and it's on the bedroom shelf. (ID: B008)"
-"Do we still have 'The Matrix' DVD?", "Yep! Tom's copy is in the black DVD binder. (ID: D002)"
-"Do we have an audiobook version of 'Dune' too?", "Actually\, yeah — Brenna has it on Audible as well. (ID: A010)"
-"Who owns 'Red Dead Redemption 2'?", "That one's Tom's. It's a PS5 game on the game shelf. (ID: G018)"
-"Where can I listen to 'Educated'?", "'Educated' is on Audible under Brenna's account. (ID: A005)"
-"Do we have 'Stardew Valley' anywhere?", "Yup! Brenna owns it on the Switch. It's in the Switch case. (ID: G015)"
-"Is 'The Hobbit' a real book or digital?", "It's a hardcover on the hallway bookshelf. Tom owns it. (ID: B007)"
-"Where's our copy of 'Interstellar'?", "'Interstellar' is a Blu-ray. Tom's copy is in the DVD binder. (ID: D009)"
-"What kind of media is 'Becoming'?", "That one's an audiobook. Brenna has it on Audible. (ID: A006)"
-"Does Tom have any digital games?", "For sure. He's got 'Cyberpunk 2077' and 'Hades' on Steam. (IDs: G012\, G020)"
-"Where's 'Hades' saved?", "'Hades' is digital — it's in Tom's Steam library. (ID: G020)"
-"Do we own any books by Jane Austen?", "We have 'Pride and Prejudice' by Jane Austen — Brenna's copy. It's a paperback. (ID: B008)"
-"Is 'Ghost of Tsushima' in our collection?", "Yeah\, that's a PS5 game owned by Tom. It's on the game shelf. (ID: G021)"
-"Is 'Gone Girl' still around?", "Hmm\, 'Gone Girl' is actually missing right now — we haven't seen it in a while. (ID: B014)"
-"Who owns 'Celeste'?", "'Celeste' is a digital game on Switch that both Tom and Brenna play. Shared ownership! (ID: G030)"
-"Do we both have access to 'The Witcher 3'?", "Yep\, that's a shared Steam game. You both can access it from the shared library. (ID: G025)"
-"Did we lose 'The Great Gatsby'?", "Yeah... unfortunately it looks like 'The Great Gatsby' went missing during the move. (ID: B017)"
-"Where's 'Inside Out'?", "'Inside Out' is a DVD that Brenna owns. It should be in the kids' movie binder. (ID: D012)"
-"Can I find 'The Subtle Art of Not Giving a F*ck' somewhere?", "Yep\, audiobook version — Tom has it in his Audible account. (ID: A009)"
-"Who owns 'Mario Kart'?", "'Mario Kart' is a Switch game that you both share. It's in the game case. (ID: G022)"
-"Do we have 'The Catcher in the Rye'?", "Yes\, it's a paperback book owned by Brenna. It's on the living room shelf. (ID: B019)"
-"Where's 'The Legend of Zelda: Breath of the Wild'?", "'Breath of the Wild' is a Switch game that Tom owns. It's in the game case. (ID: G031)"
-"Can I watch 'Inception'?", "'Inception' is a Blu-ray owned by Tom. It's in the black DVD binder. (ID: D015)"
-"Do we own 'The Alchemist'?", "Yep\, it's a hardcover book on the bedroom shelf. Brenna owns it. (ID: B020)"
-"Who has 'Hollow Knight'?", "'Hollow Knight' is a digital game on Steam that Tom owns. (ID: G032)"
-"Where can I find 'Frozen'?", "'Frozen' is a DVD in the kids' movie binder. Brenna owns it. (ID: D016)"
-"Is '1984' still in our collection?", "Yes\, it's a paperback book on the hallway bookshelf. Tom owns it. (ID: B021)"
-"Do we have 'The Godfather'?", "'The Godfather' is a Blu-ray owned by Tom. It's in the top drawer of the TV console. (ID: D017)"
-"Can I listen to 'Atomic Habits'?", "'Atomic Habits' is an audiobook in Brenna's Audible account. (ID: A011)"
-"Where's 'Super Mario Odyssey'?", "'Super Mario Odyssey' is a Switch game owned by Brenna. It's in the game case. (ID: G033)"
-"Do we still have 'The Hunger Games'?", "Yes\, it's a hardcover book on the living room shelf. Brenna owns it. (ID: B022)"
-"Who owns 'Portal 2'?", "'Portal 2' is a Steam game that Tom owns. It's digital. (ID: G034)"
-"Where can I watch 'The Lion King'?", "'The Lion King' is a DVD in the kids' movie binder. Brenna owns it. (ID: D018)"
-"Do we have 'The Road'?", "'The Road' is a paperback book on the bedroom shelf. Tom owns it. (ID: B023)"
-"Can I play 'Overwatch'?", "'Overwatch' is a digital game on Tom's Battle.net account. (ID: G035)"
-"Where's 'Moana'?", "'Moana' is a Blu-ray owned by Brenna. It's in the kids' movie binder. (ID: D019)"
-"Do we own 'The Shining'?", "'The Shining' is a hardcover book on the hallway bookshelf. Tom owns it. (ID: B024)"
-"Who has 'Dark Souls III'?", "'Dark Souls III' is a PS5 game owned by Tom. It's in the media cabinet. (ID: G036)"
-"Where can I find 'Coco'?", "'Coco' is a DVD in the kids' movie binder. Brenna owns it. (ID: D020)"
-"Is 'The Kite Runner' in our collection?", "Yes\, it's a paperback book on the living room shelf. Brenna owns it. (ID: B025)"
-"Do we have 'Sekiro: Shadows Die Twice'?", "'Sekiro' is a PS5 game owned by Tom. It's in the game shelf. (ID: G037)"
-"Can I listen to 'Becoming'?", "'Becoming' is an audiobook in Brenna's Audible account. (ID: A006)"
-"Where's 'The Avengers'?", "'The Avengers' is a Blu-ray owned by Tom. It's in the black DVD binder. (ID: D021)"
-"Do we still have 'The Fault in Our Stars'?", "Yes\, it's a paperback book on the bedroom shelf. Brenna owns it. (ID: B026)"
-"Who owns 'Minecraft'?", "'Minecraft' is a digital game on Tom's Xbox account. (ID: G038)"
-"Do we have 'Sherlock' on DVD?", "'Sherlock' is a Blu-ray box set owned by Tom. It's in the black DVD binder. (ID: D039)"
-"Where can I find 'Doctor Who'?", "'Doctor Who' is a digital series on Brenna's Amazon Prime account. (ID: S001)"
-"Is 'Luther' in our collection?", "Yes\, 'Luther' is a Blu-ray set owned by Tom. It's in the top drawer of the TV console. (ID: D040)"
-"Do we own 'The Office (UK)'?", "'The Office (UK)' is a DVD set owned by Brenna. It's in the comedy section of the DVD shelf. (ID: D041)"
-"Can I watch 'Peaky Blinders'?", "'Peaky Blinders' is a digital series on Tom's Netflix account. (ID: S002)"
-"Where's 'Planet Earth'?", "'Planet Earth' is a Blu-ray documentary owned by Brenna. It's in the nature section of the DVD shelf. (ID: D042)"
-"Do we have 'Top Gear'?", "'Top Gear' is a DVD set owned by Tom. It's in the car shows section of the media cabinet. (ID: D043)"
-"Who owns 'The Great British Bake Off'?", "'The Great British Bake Off' is a digital series on Brenna's Netflix account. (ID: S003)"
-"Where can I find 'Killing Eve'?", "'Killing Eve' is a Blu-ray set owned by Brenna. It's in the thriller section of the DVD shelf. (ID: D044)"
-"Is 'Black Mirror' part of our collection?", "'Black Mirror' is a digital series on Tom's Netflix account. (ID: S004)"
-"Do we own 'The Crown'?", "'The Crown' is a digital series on Brenna's Netflix account. (ID: S005)"
-"Can I watch 'Downton Abbey'?", "'Downton Abbey' is a Blu-ray set owned by Brenna. It's in the drama section of the DVD shelf. (ID: D045)"
-"Where's 'The Blue Planet'?", "'The Blue Planet' is a Blu-ray documentary owned by Tom. It's in the nature section of the DVD shelf. (ID: D046)"
-"Do we have 'Torchwood'?", "'Torchwood' is a DVD set owned by Tom. It's in the sci-fi section of the media cabinet. (ID: D047)"
-"Who owns 'Call the Midwife'?", "'Call the Midwife' is a Blu-ray set owned by Brenna. It's in the drama section of the DVD shelf. (ID: D048)"
-"Where can I find 'Line of Duty'?", "'Line of Duty' is a Blu-ray set owned by Tom. It's in the thriller section of the DVD shelf. (ID: D049)"
-"Is 'The IT Crowd' in our collection?", "'The IT Crowd' is a DVD set owned by Brenna. It's in the comedy section of the DVD shelf. (ID: D050)"
-"Do we own 'Fawlty Towers'?", "'Fawlty Towers' is a DVD set owned by Tom. It's in the classic comedy section of the media cabinet. (ID: D051)"
-"Can I watch 'The Bodyguard'?", "'The Bodyguard' is a digital series on Brenna's Netflix account. (ID: S006)"
-"Where's 'The Thick of It'?", "'The Thick of It' is a DVD set owned by Tom. It's in the political comedy section of the DVD shelf. (ID: D052)"
-"Do we have 'Spooks'?", "'Spooks' is a Blu-ray set owned by Brenna. It's in the thriller section of the DVD shelf. (ID: D053)"
-"Who owns 'The Vicar of Dibley'?", "'The Vicar of Dibley' is a DVD set owned by Brenna. It's in the comedy section of the DVD shelf. (ID: D054)"
-"Where can I find 'Pride and Prejudice (1995)'?", "'Pride and Prejudice (1995)' is a Blu-ray set owned by Brenna. It's in the period drama section of the DVD shelf. (ID: D055)"
-"Is 'The Night Manager' part of our collection?", "'The Night Manager' is a Blu-ray set owned by Tom. It's in the thriller section of the DVD shelf. (ID: D056)"
-"Do we own 'The Outlaws'?", "'The Outlaws' is a digital series on Brenna's Amazon Prime account. (ID: S007)"
-"Do we have 'Starfield'?", "'Starfield' is a digital game on Tom's Xbox Game Pass account. (ID: G101)"
-"Where's 'Baldur's Gate 3'?", "'Baldur's Gate 3' is a Steam game owned by Brenna. It's digital. (ID: G102)"
-"Can I play 'Spider-Man 2'?", "'Spider-Man 2' is a PS5 game owned by Tom. It's in the media cabinet. (ID: G103)"
-"Who owns 'Hogwarts Legacy'?", "'Hogwarts Legacy' is a PS5 game owned by Brenna. It's on the game shelf. (ID: G104)"
-"Is 'The Legend of Zelda: Tears of the Kingdom' in our collection?", "'Tears of the Kingdom' is a Switch game owned by Brenna. It's in the game case. (ID: G105)"
-"Do we have 'Elden Ring'?", "'Elden Ring' is a PS5 game owned by Tom. It's in the media cabinet. (ID: G106)"
-"Where can I find 'Final Fantasy XVI'?", "'Final Fantasy XVI' is a PS5 game owned by Brenna. It's on the game shelf. (ID: G107)"
-"Is 'Diablo IV' part of our collection?", "'Diablo IV' is a digital game on Tom's Battle.net account. (ID: G108)"
-"Do we own 'Armored Core VI'?", "'Armored Core VI' is a PS5 game owned by Tom. It's in the media cabinet. (ID: G109)"
-"Can I play 'Alan Wake 2'?", "'Alan Wake 2' is a digital game on Brenna's Epic Games account. (ID: G110)"
-"Where's 'Cyberpunk 2077: Phantom Liberty'?", "'Phantom Liberty' is a digital expansion on Tom's Steam account. (ID: G111)"
-"Do we have 'Lies of P'?", "'Lies of P' is a PS5 game owned by Brenna. It's on the game shelf. (ID: G112)"
-"Who owns 'Street Fighter 6'?", "'Street Fighter 6' is a PS5 game owned by Tom. It's in the media cabinet. (ID: G113)"
-"Is 'Mortal Kombat 1' in our collection?", "'Mortal Kombat 1' is a PS5 game owned by Brenna. It's on the game shelf. (ID: G114)"
-"Do we have 'Pikmin 4'?", "'Pikmin 4' is a Switch game owned by Brenna. It's in the game case. (ID: G115)"
-"Where can I find 'Remnant 2'?", "'Remnant 2' is a digital game on Tom's Steam account. (ID: G116)"
-"Can I play 'Forza Motorsport'?", "'Forza Motorsport' is a digital game on Tom's Xbox Game Pass account. (ID: G117)"
-"Do we own 'Assassin's Creed Mirage'?", "'Assassin's Creed Mirage' is a PS5 game owned by Brenna. It's on the game shelf. (ID: G118)"
-"Where's 'Hades II'?", "'Hades II' is a digital game on Brenna's Steam account. (ID: G119)"
-"Is 'Payday 3' part of our collection?", "'Payday 3' is a digital game on Tom's Steam account. (ID: G120)"
-"Do we have 'The Callisto Protocol'?", "'The Callisto Protocol' is a PS5 game owned by Tom. It's in the media cabinet. (ID: G121)"
-"Who owns 'Dead Space (2023)'?", "'Dead Space (2023)' is a PS5 game owned by Brenna. It's on the game shelf. (ID: G122)"
-"Can I play 'Returnal'?", "'Returnal' is a PS5 game owned by Tom. It's in the media cabinet. (ID: G123)"
-"Where's 'Hi-Fi Rush'?", "'Hi-Fi Rush' is a digital game on Brenna's Xbox Game Pass account. (ID: G124)"
-"Do we have 'Sonic Superstars'?", "'Sonic Superstars' is a Switch game owned by Brenna. It's in the game case. (ID: G125)"
-"Where's 'The Great Gatsby'?", "'The Great Gatsby' went missing during the move. (ID: B017)"
-"Do we still have 'Gone Girl'?", "'Gone Girl' is missing — we haven't seen it in a while. (ID: B014)"
-"Who borrowed 'The Catcher in the Rye'?", "'The Catcher in the Rye' is with Sarah. She borrowed it last month. (ID: B019)"
-"Is 'The Hobbit' still here?", "'The Hobbit' was lent to Mike. He hasn't returned it yet. (ID: B007)"
-"Where's 'The Matrix' DVD?", "'The Matrix' is missing. We last saw it in the black DVD binder. (ID: D002)"
-"Do we have 'Harry Potter and the Sorcerer's Stone'?", "'Harry Potter and the Sorcerer's Stone' was borrowed by Emma. (ID: A003)"
-"Who has 'Cyberpunk 2077'?", "'Cyberpunk 2077' is missing. We can't find it in the Steam library. (ID: G012)"
-"Where's 'Blade Runner 2049'?", "'Blade Runner 2049' was lent to John. He said he'd return it soon. (ID: D006)"
-"Is 'The Hunger Games' still around?", "'The Hunger Games' is missing. It was last seen on the living room shelf. (ID: B022)"
-"Who borrowed 'The Fault in Our Stars'?", "'The Fault in Our Stars' is with Lisa. She borrowed it a few weeks ago. (ID: B026)"
-"Where's 'The Avengers'?", "'The Avengers' Blu-ray is missing. It was last in the black DVD binder. (ID: D021)"
-"Do we still have 'The Road'?", "'The Road' was lent to Alex. He hasn't returned it yet. (ID: B023)"
-"Who has 'Inside Out'?", "'Inside Out' is missing. It was supposed to be in the kids' movie binder. (ID: D012)"
-"Where's 'The Subtle Art of Not Giving a F*ck'?", "'The Subtle Art of Not Giving a F*ck' audiobook is missing from Tom's Audible account. (ID: A009)"
-"Is 'The Lion King' still here?", "'The Lion King' DVD is missing. It was last seen in the kids' movie binder. (ID: D018)"
-"Who borrowed 'The Shining'?", "'The Shining' was lent to Rachel. She said she'd return it next week. (ID: B024)"
-"Where's 'The Kite Runner'?", "'The Kite Runner' is missing. It was last seen on the living room shelf. (ID: B025)"
-"Do we have 'The Godfather'?", "'The Godfather' Blu-ray is missing. It was last in the top drawer of the TV console. (ID: D017)"
-"Who has 'Frozen'?", "'Frozen' DVD is missing. It was supposed to be in the kids' movie binder. (ID: D016)"
-"Where's 'Moana'?", "'Moana' Blu-ray is missing. It was last seen in the kids' movie binder. (ID: D019)"
-"Is 'The Crown' still available?", "'The Crown' digital series is missing from Brenna's Netflix account. (ID: S005)"
-"Who borrowed 'Downton Abbey'?", "'Downton Abbey' Blu-ray set is with Claire. She borrowed it last month. (ID: D045)"
-"Where's 'The Blue Planet'?", "'The Blue Planet' Blu-ray is missing. It was last in the nature section of the DVD shelf. (ID: D046)"
-"Do we still have 'Torchwood'?", "'Torchwood' DVD set is missing. It was last in the sci-fi section of the media cabinet. (ID: D047)"
-"Who has 'Call the Midwife'?", "'Call the Midwife' Blu-ray set is with Anna. She borrowed it recently. (ID: D048)"
-user_input,bot_response
-"Where is 'Dune'?", "Yep\, Tom's hardcover copy of 'Dune' is on the living room shelf\, id b001."
-"Do we have 'Gone Girl'?", "'Gone Girl' is actually missing right now; we haven't seen it in a while\, id b014."
-"Who owns 'The Hobbit'?", "'The Hobbit' audiobook belongs to Brenna\, found in the bedroom shelf\, id b007."
-"Is 'Inside Out' on DVD?", "Yep\, Tom's copy is in the black DVD binder\, id d002."
-"Do we own 'Sunrise on the Reaping'?", "No\, we don’t have 'Sunrise on the Reaping' in any format."
-"Is 'Cyberpunk 2077' on PS5?", "Yes\, Brenna's PS5 game 'Cyberpunk 2077' is in the game cabinet\, id g011."
-"Do we have 'The Great Gatsby' as an audiobook?", "No audiobook for 'The Great Gatsby'\, but Tom's hardcover is on the living room shelf\, id b005."
-"Is 'Super Mario Odyssey' a Switch game?", "Yep\, Brenna’s 'Super Mario Odyssey' Switch game is in the game cabinet\, id s012."
-"Where’s 'Inception' Blu-ray?", "Tom's Blu-ray of 'Inception' is in the living room media shelf\, id d008."
-"Who owns 'The Martian'?", "'The Martian' Kindle edition is owned by Tom\, in his Amazon library\, id a009."
-"Is 'Dune' lost?", "No\, 'Dune' is safe on the living room shelf\, id b001."
-"Do we share ownership of 'The Witcher 3'?", "Yes\, 'The Witcher 3' on Steam is shared between Tom and Brenna\, id st015."
-"Is 'Becoming' an audiobook by Brenna?", "Yep\, Brenna's audiobook 'Becoming' is on her phone app\, id ab010."
-"Where is 'Frozen II' DVD?", "'Frozen II' DVD is with Brenna in her room\, id d013."
-"Do we own 'The Expanse' book series?", "Yes\, Tom has the hardcover 'The Expanse' books on the bedroom shelf\, id b020."
-"Is 'Halo Infinite' available on Xbox?", "No Xbox games owned\, but Brenna has 'Halo Infinite' on Steam\, id st018."
-"Who owns 'Ready Player One' audiobook?", "Tom owns 'Ready Player One' audiobook\, stored on his Audible account\, id ab016."
-"Is 'The Mandalorian' on DVD?", "No DVDs of 'The Mandalorian'\, only streaming."
-"Where is 'Call of Duty' PS5 game?", "Brenna's 'Call of Duty' PS5 game is in the game cabinet\, id g021."
-"Do we have 'Normal People' as an audiobook?", "Yes\, Tom’s copy of 'Normal People' audiobook is on his phone\, id ab022."
-"Who owns 'Dark Souls' on Steam?", "Tom owns 'Dark Souls' on Steam\, id st023."
-"Is 'The Alchemist' book lost?", "'The Alchemist' is missing from the bookshelf\, last seen months ago\, id b024."
-"Do we own 'Spider-Man: Miles Morales' on PS5?", "Yes\, Brenna's 'Spider-Man: Miles Morales' PS5 game is in the cabinet\, id g025."
-"Where is 'The Queen’s Gambit' DVD?", "'The Queen’s Gambit' DVD is in the living room binder\, Tom's copy\, id d026."
-"Is 'Educated' audiobook Brenna’s?", "Yes\, Brenna's audiobook 'Educated' is on her Audible app\, id ab027."
-"Do we have 'Animal Crossing' on Switch?", "Yes\, Tom’s 'Animal Crossing' Switch game is in the game cabinet\, id s028."
-"Where is 'Blade Runner 2049' Blu-ray?", "'Blade Runner 2049' Blu-ray is in the media shelf\, Brenna's copy\, id d029."
-"Who owns 'Harry Potter' Kindle edition?", "Tom owns the 'Harry Potter' Kindle books in his Amazon library\, id a030."
-"Is 'The Office' DVD set complete?", "Yes\, complete DVD set owned by Brenna\, in her media binder\, id d031."
-"Do we share 'Overwatch' on Steam?", "Yes\, 'Overwatch' Steam account is shared between Tom and Brenna\, id st032."
-"Is 'Becoming' audiobook lost?", "No\, Brenna's 'Becoming' audiobook is safely on her phone\, id ab010."
-"Who owns 'The Witcher 3' on PS5?", "Only Steam version owned\, no PS5 copy for 'The Witcher 3'."
-"Is 'Call of Duty' Switch game available?", "No\, 'Call of Duty' is only on PS5 for Brenna\, id g021."
-"Where is 'Breaking Bad' DVD?", "Tom’s 'Breaking Bad' DVD is in the living room binder\, id d033."
-"Do we have 'Dune' audiobook?", "No audiobook\, just the hardcover owned by Tom\, id b001."
-"Who owns 'Super Mario Odyssey' Switch game?", "Brenna owns 'Super Mario Odyssey' Switch game\, id s012."
-"Is 'Halo Infinite' Steam game lost?", "'Halo Infinite' Steam game is safe in Brenna’s Steam library\, id st018."
-"Do we have 'The Great Gatsby' book?", "Yes\, Tom's hardcover copy is on the living room shelf\, id b005."
-user_input,bot_response
-"Where can I find the audiobook 'The Silent Patient'?", "Brenna's audiobook\, 'The Silent Patient'\, is on her phone app\, id ab034."
-"Is 'Stranger Things' DVD available?", "Yes\, Tom's copy of 'Stranger Things' DVD is in the living room media binder\, id d035."
-"Do we own 'Death Stranding' on PS5?", "Yes\, Brenna owns 'Death Stranding' on PS5\, stored in the game cabinet\, id g036."
-"Who has 'Educated' audiobook?", "That's Brenna's audiobook\, 'Educated'\, located on her Audible app\, id ab027."
-"Is 'The Witcher 3' lost or available?", "No\, 'The Witcher 3' on Steam is available\, shared by Tom and Brenna\, id st015."
-"Do we share ownership of 'Cyberpunk 2077'?", "No\, 'Cyberpunk 2077' PS5 game is Brenna's alone\, kept in the game cabinet\, id g011."
-"Is 'The Alchemist' hardcover in the bedroom?", "No\, 'The Alchemist' hardcover is missing from the bedroom shelf\, id b024."
-"Where is Tom's copy of 'Inception' DVD?", "Tom's 'Inception' DVD is in the black binder in the living room\, id d008."
-"Who owns the 'Harry Potter' Kindle editions?", "Tom owns the 'Harry Potter' Kindle editions in his Amazon library\, id a030."
-"Do we have 'Super Mario Odyssey' on Switch?", "Yes\, Brenna owns 'Super Mario Odyssey' Switch game\, located in the game cabinet\, id s012."
-"Is 'Dune' available as an audiobook?", "No audiobook\, only Tom's hardcover of 'Dune' on the living room shelf\, id b001."
-"Do we have 'The Expanse' book series?", "Yes\, Tom has the hardcover 'The Expanse' books on the bedroom shelf\, id b020."
-"Is 'Halo Infinite' on Steam or Xbox?", "Brenna owns 'Halo Infinite' on Steam\, no Xbox version\, id st018."
-"Where is 'The Queen’s Gambit' DVD?", "Tom's 'The Queen’s Gambit' DVD is in the living room binder\, id d026."
-"Do we own 'Call of Duty' on PS5?", "Brenna's 'Call of Duty' PS5 game is in the game cabinet\, id g021."
-"Is 'Becoming' audiobook lost?", "No\, Brenna's audiobook 'Becoming' is safe on her phone app\, id ab010."
-"Who owns 'Dark Souls' on Steam?", "Tom owns 'Dark Souls' on Steam\, id st023."
-"Where can I find 'Normal People' audiobook?", "Tom's copy of 'Normal People' audiobook is on his phone\, id ab022."
-"Is 'The Office' DVD set complete?", "Yes\, Brenna has the complete 'The Office' DVD set in her media binder\, id d031."
-"Do we share 'Overwatch' on Steam?", "Yes\, 'Overwatch' Steam account is shared between Tom and Brenna\, id st032."
-"Where is the 'Frozen II' DVD?", "Brenna's 'Frozen II' DVD is in her room\, id d013."
-"Who owns the 'Ready Player One' audiobook?", "Tom owns 'Ready Player One' audiobook\, stored on his Audible account\, id ab016."
-"Is 'Spider-Man: Miles Morales' PS5 game available?", "Yes\, Brenna's 'Spider-Man: Miles Morales' PS5 game is in the game cabinet\, id g025."
-"Do we have 'Animal Crossing' on Switch?", "Yes\, Tom owns 'Animal Crossing' Switch game in the game cabinet\, id s028."
-"Is 'Blade Runner 2049' Blu-ray lost?", "No\, Brenna's 'Blade Runner 2049' Blu-ray is in the media shelf\, id d029."
-"Do we own 'The Great Gatsby' hardcover?", "Yes\, Tom's hardcover copy of 'The Great Gatsby' is on the living room shelf\, id b005."
-"Is 'Gone Girl' book missing?", "'Gone Girl' hardcover is currently missing\, last seen months ago\, id b014."
-"Who owns 'The Martian' Kindle edition?", "Tom owns 'The Martian' Kindle edition\, id a009."
-"Is 'Breaking Bad' DVD in the media binder?", "Tom's 'Breaking Bad' DVD is in the living room binder\, id d033."
-"Do we have 'The Hobbit' audiobook?", "Yes\, Brenna owns 'The Hobbit' audiobook\, in the bedroom shelf\, id b007."
-"Where is 'Cyberpunk 2077' PS5 game?", "Brenna's 'Cyberpunk 2077' PS5 game is in the game cabinet\, id g011."
-"Is 'Dune' hardcover lost or available?", "'Dune' hardcover is available on the living room shelf\, id b001."
-"Who owns 'The Witcher 3' Steam copy?", "Shared ownership between Tom and Brenna for 'The Witcher 3' on Steam\, id st015."
-"Is 'Educated' audiobook on Brenna’s phone?", "Yes\, 'Educated' audiobook is on Brenna's phone app\, id ab027."
-"Do we have 'Super Mario Odyssey' in the game cabinet?", "Yes\, Brenna’s 'Super Mario Odyssey' Switch game is in the game cabinet\, id s012."
-"Where is 'Halo Infinite' Steam game?", "'Halo Infinite' is safe in Brenna’s Steam library\, id st018."
-"Is 'The Alchemist' hardcover missing?", "'The Alchemist' hardcover is currently missing from the bookshelf\, id b024."
-"Who owns 'Call of Duty' PS5?", "Brenna owns 'Call of Duty' PS5 game in the game cabinet\, id g021."
-"Do we have 'Normal People' audiobook?", "Yes\, Tom owns 'Normal People' audiobook on his phone\, id ab022."
-"Is 'The Office' DVD set owned by Brenna?", "Yes\, Brenna owns the complete DVD set of 'The Office'\, id d031."
-"Where is 'Overwatch' Steam account?", "Shared between Tom and Brenna\, id st032."
-"Is 'The Silent Patient' audiobook Brenna's?", "Yes\, Brenna's 'The Silent Patient' audiobook is on her phone app\, id ab034."
-"Do we have 'Death Stranding' PS5 game?", "Brenna owns 'Death Stranding' PS5 game\, in the game cabinet\, id g036."
-"Who owns 'Stranger Things' DVD?", "Tom owns 'Stranger Things' DVD\, stored in the living room media binder\, id d035."
-"Is 'Blade Runner 2049' Blu-ray with Brenna?", "Yes\, Brenna’s copy of 'Blade Runner 2049' Blu-ray is in the media shelf\, id d029."
-user_input,bot_response
-"Hey\, wheres the book Dune?", "Oh yeah\, Dune is on the living room shelf. Its a hardcover that Tom owns. (ID: B001)"
-"Do we have Animal Crossing?", "Yep! Animal Crossing is a Switch game Brenna owns. It should be in the Switch game case. (ID: G004)"
-"Is The Last of Us Part II a movie or a game?", "Thats a PS5 game\, not a movie. Tom has it\, and its in the media cabinet. (ID: G009)"
-"Do we own Harry Potter and the Sorcerers Stone?", "Totally. Weve got it as an audiobook in Brennas Audible account. (ID: A003)"
-"Where can I find Blade Runner 2049?", "Blade Runner 2049 is a Blu-ray that Tom owns. Its in the top drawer of the TV console. (ID: D006)"
-"Can I play Cyberpunk 2077 on the PS5?", "Not exactly — its the Steam version Tom owns\, so its digital. (ID: G012)"
-"Which Switch games does Brenna have?", "Brennas got Animal Crossing and Stardew Valley for Switch. Both are in the game case. (IDs: G004\, G015)"
-"Whats the format for Pride and Prejudice?", "Its a paperback book. Brenna owns it\, and its on the bedroom shelf. (ID: B008)"
-"Do we still have The Matrix DVD?", "Yep! Toms copy is in the black DVD binder. (ID: D002)"
-"Do we have an audiobook version of Dune too?", "Actually\, yeah — Brenna has it on Audible as well. (ID: A010)"
-"Who owns Red Dead Redemption 2?", "That ones Toms. Its a PS5 game on the game shelf. (ID: G018)"
-"Where can I listen to Educated?", "Educated is on Audible under Brennas account. (ID: A005)"
-"Do we have Stardew Valley anywhere?", "Yup! Brenna owns it on the Switch. Its in the Switch case. (ID: G015)"
-"Is The Hobbit a real book or digital?", "Its a hardcover on the hallway bookshelf. Tom owns it. (ID: B007)"
-"Wheres our copy of Interstellar?", "Interstellar is a Blu-ray. Toms copy is in the DVD binder. (ID: D009)"
-"What kind of media is Becoming?", "That ones an audiobook. Brenna has it on Audible. (ID: A006)"
-"Does Tom have any digital games?", "For sure. Hes got Cyberpunk 2077 and Hades on Steam. (IDs: G012\, G020)"
-"Wheres Hades saved?", "Hades is digital — its in Toms Steam library. (ID: G020)"
-"Do we own any books by Jane Austen?", "We have Pride and Prejudice by Jane Austen — Brennas copy. Its a paperback. (ID: B008)"
-"Is Ghost of Tsushima in our collection?", "Yeah\, thats a PS5 game owned by Tom. Its on the game shelf. (ID: G021)"
-"Is Gone Girl still around?", "Hmm\, Gone Girl is actually missing right now — we havent seen it in a while. (ID: B014)"
-"Who owns Celeste?", "Celeste is a digital game on Switch that both Tom and Brenna play. Shared ownership! (ID: G030)"
-"Do we both have access to The Witcher 3?", "Yep\, thats a shared Steam game. You both can access it from the shared library. (ID: G025)"
-"Did we lose The Great Gatsby?", "Yeah... unfortunately it looks like The Great Gatsby went missing during the move. (ID: B017)"
-"Wheres Inside Out?", "Inside Out is a DVD that Brenna owns. It should be in the kids movie binder. (ID: D012)"
-"Can I find The Subtle Art of Not Giving a F*ck somewhere?", "Yep\, audiobook version — Tom has it in his Audible account. (ID: A009)"
-"Who owns Mario Kart?", "Mario Kart is a Switch game that you both share. Its in the game case. (ID: G022)"
-"Do we have The Catcher in the Rye?", "Yes\, its a paperback book owned by Brenna. Its on the living room shelf. (ID: B019)"
-"Wheres The Legend of Zelda: Breath of the Wild?", "Breath of the Wild is a Switch game that Tom owns. Its in the game case. (ID: G031)"
-"Can I watch Inception?", "Inception is a Blu-ray owned by Tom. Its in the black DVD binder. (ID: D015)"
-"Do we own The Alchemist?", "Yep\, its a hardcover book on the bedroom shelf. Brenna owns it. (ID: B020)"
-"Who has Hollow Knight?", "Hollow Knight is a digital game on Steam that Tom owns. (ID: G032)"
-"Where can I find Frozen?", "Frozen is a DVD in the kids movie binder. Brenna owns it. (ID: D016)"
-"Is 1984 still in our collection?", "Yes\, its a paperback book on the hallway bookshelf. Tom owns it. (ID: B021)"
-"Do we have The Godfather?", "The Godfather is a Blu-ray owned by Tom. Its in the top drawer of the TV console. (ID: D017)"
-"Can I listen to Atomic Habits?", "Atomic Habits is an audiobook in Brennas Audible account. (ID: A011)"
-"Wheres Super Mario Odyssey?", "Super Mario Odyssey is a Switch game owned by Brenna. Its in the game case. (ID: G033)"
-"Do we still have The Hunger Games?", "Yes\, its a hardcover book on the living room shelf. Brenna owns it. (ID: B022)"
-"Who owns Portal 2?", "Portal 2 is a Steam game that Tom owns. Its digital. (ID: G034)"
-"Where can I watch The Lion King?", "The Lion King is a DVD in the kids movie binder. Brenna owns it. (ID: D018)"
-"Do we have The Road?", "The Road is a paperback book on the bedroom shelf. Tom owns it. (ID: B023)"
-"Can I play Overwatch?", "Overwatch is a digital game on Toms Battle.net account. (ID: G035)"
-"Wheres Moana?", "Moana is a Blu-ray owned by Brenna. Its in the kids movie binder. (ID: D019)"
-"Do we own The Shining?", "The Shining is a hardcover book on the hallway bookshelf. Tom owns it. (ID: B024)"
-"Who has Dark Souls III?", "Dark Souls III is a PS5 game owned by Tom. Its in the media cabinet. (ID: G036)"
-"Where can I find Coco?", "Coco is a DVD in the kids movie binder. Brenna owns it. (ID: D020)"
-"Is The Kite Runner in our collection?", "Yes\, its a paperback book on the living room shelf. Brenna owns it. (ID: B025)"
-"Do we have Sekiro: Shadows Die Twice?", "Sekiro is a PS5 game owned by Tom. Its in the game shelf. (ID: G037)"
-"Can I listen to Becoming?", "Becoming is an audiobook in Brennas Audible account. (ID: A006)"
-"Wheres The Avengers?", "The Avengers is a Blu-ray owned by Tom. Its in the black DVD binder. (ID: D021)"
-"Do we still have The Fault in Our Stars?", "Yes\, its a paperback book on the bedroom shelf. Brenna owns it. (ID: B026)"
-"Who owns Minecraft?", "Minecraft is a digital game on Toms Xbox account. (ID: G038)"
-"Do we have Sherlock on DVD?", "Sherlock is a Blu-ray box set owned by Tom. Its in the black DVD binder. (ID: D039)"
-"Where can I find Doctor Who?", "Doctor Who is a digital series on Brennas Amazon Prime account. (ID: S001)"
-"Is Luther in our collection?", "Yes\, Luther is a Blu-ray set owned by Tom. Its in the top drawer of the TV console. (ID: D040)"
-"Do we own The Office (UK)?", "The Office (UK) is a DVD set owned by Brenna. Its in the comedy section of the DVD shelf. (ID: D041)"
-"Can I watch Peaky Blinders?", "Peaky Blinders is a digital series on Toms Netflix account. (ID: S002)"
-"Wheres Planet Earth?", "Planet Earth is a Blu-ray documentary owned by Brenna. Its in the nature section of the DVD shelf. (ID: D042)"
-"Do we have Top Gear?", "Top Gear is a DVD set owned by Tom. Its in the car shows section of the media cabinet. (ID: D043)"
-"Who owns The Great British Bake Off?", "The Great British Bake Off is a digital series on Brennas Netflix account. (ID: S003)"
-"Where can I find Killing Eve?", "Killing Eve is a Blu-ray set owned by Brenna. Its in the thriller section of the DVD shelf. (ID: D044)"
-"Is Black Mirror part of our collection?", "Black Mirror is a digital series on Toms Netflix account. (ID: S004)"
-"Do we own The Crown?", "The Crown is a digital series on Brennas Netflix account. (ID: S005)"
-"Can I watch Downton Abbey?", "Downton Abbey is a Blu-ray set owned by Brenna. Its in the drama section of the DVD shelf. (ID: D045)"
-"Wheres The Blue Planet?", "The Blue Planet is a Blu-ray documentary owned by Tom. Its in the nature section of the DVD shelf. (ID: D046)"
-"Do we have Torchwood?", "Torchwood is a DVD set owned by Tom. Its in the sci-fi section of the media cabinet. (ID: D047)"
-"Who owns Call the Midwife?", "Call the Midwife is a Blu-ray set owned by Brenna. Its in the drama section of the DVD shelf. (ID: D048)"
-"Where can I find Line of Duty?", "Line of Duty is a Blu-ray set owned by Tom. Its in the thriller section of the DVD shelf. (ID: D049)"
-"Is The IT Crowd in our collection?", "The IT Crowd is a DVD set owned by Brenna. Its in the comedy section of the DVD shelf. (ID: D050)"
-"Do we own Fawlty Towers?", "Fawlty Towers is a DVD set owned by Tom. Its in the classic comedy section of the media cabinet. (ID: D051)"
-"Can I watch The Bodyguard?", "The Bodyguard is a digital series on Brennas Netflix account. (ID: S006)"
-"Wheres The Thick of It?", "The Thick of It is a DVD set owned by Tom. Its in the political comedy section of the DVD shelf. (ID: D052)"
-"Do we have Spooks?", "Spooks is a Blu-ray set owned by Brenna. Its in the thriller section of the DVD shelf. (ID: D053)"
-"Who owns The Vicar of Dibley?", "The Vicar of Dibley is a DVD set owned by Brenna. Its in the comedy section of the DVD shelf. (ID: D054)"
-"Where can I find Pride and Prejudice (1995)?", "Pride and Prejudice (1995) is a Blu-ray set owned by Brenna. Its in the period drama section of the DVD shelf. (ID: D055)"
-"Is The Night Manager part of our collection?", "The Night Manager is a Blu-ray set owned by Tom. Its in the thriller section of the DVD shelf. (ID: D056)"
-"Do we own The Outlaws?", "The Outlaws is a digital series on Brennas Amazon Prime account. (ID: S007)"
-"Do we have Starfield?", "Starfield is a digital game on Toms Xbox Game Pass account. (ID: G101)"
-"Wheres Baldurs Gate 3?", "Baldurs Gate 3 is a Steam game owned by Brenna. Its digital. (ID: G102)"
-"Can I play Spider-Man 2?", "Spider-Man 2 is a PS5 game owned by Tom. Its in the media cabinet. (ID: G103)"
-"Who owns Hogwarts Legacy?", "Hogwarts Legacy is a PS5 game owned by Brenna. Its on the game shelf. (ID: G104)"
-"Is The Legend of Zelda: Tears of the Kingdom in our collection?", "Tears of the Kingdom is a Switch game owned by Brenna. Its in the game case. (ID: G105)"
-"Do we have Elden Ring?", "Elden Ring is a PS5 game owned by Tom. Its in the media cabinet. (ID: G106)"
-"Where can I find Final Fantasy XVI?", "Final Fantasy XVI is a PS5 game owned by Brenna. Its on the game shelf. (ID: G107)"
-"Is Diablo IV part of our collection?", "Diablo IV is a digital game on Toms Battle.net account. (ID: G108)"
-"Do we own Armored Core VI?", "Armored Core VI is a PS5 game owned by Tom. Its in the media cabinet. (ID: G109)"
-"Can I play Alan Wake 2?", "Alan Wake 2 is a digital game on Brennas Epic Games account. (ID: G110)"
-"Wheres Cyberpunk 2077: Phantom Liberty?", "Phantom Liberty is a digital expansion on Toms Steam account. (ID: G111)"
-"Do we have Lies of P?", "Lies of P is a PS5 game owned by Brenna. Its on the game shelf. (ID: G112)"
-"Who owns Street Fighter 6?", "Street Fighter 6 is a PS5 game owned by Tom. Its in the media cabinet. (ID: G113)"
-"Is Mortal Kombat 1 in our collection?", "Mortal Kombat 1 is a PS5 game owned by Brenna. Its on the game shelf. (ID: G114)"
-"Do we have Pikmin 4?", "Pikmin 4 is a Switch game owned by Brenna. Its in the game case. (ID: G115)"
-"Where can I find Remnant 2?", "Remnant 2 is a digital game on Toms Steam account. (ID: G116)"
-"Can I play Forza Motorsport?", "Forza Motorsport is a digital game on Toms Xbox Game Pass account. (ID: G117)"
-"Do we own Assassins Creed Mirage?", "Assassins Creed Mirage is a PS5 game owned by Brenna. Its on the game shelf. (ID: G118)"
-"Wheres Hades II?", "Hades II is a digital game on Brennas Steam account. (ID: G119)"
-"Is Payday 3 part of our collection?", "Payday 3 is a digital game on Toms Steam account. (ID: G120)"
-"Do we have The Callisto Protocol?", "The Callisto Protocol is a PS5 game owned by Tom. Its in the media cabinet. (ID: G121)"
-"Who owns Dead Space (2023)?", "Dead Space (2023) is a PS5 game owned by Brenna. Its on the game shelf. (ID: G122)"
-"Can I play Returnal?", "Returnal is a PS5 game owned by Tom. Its in the media cabinet. (ID: G123)"
-"Wheres Hi-Fi Rush?", "Hi-Fi Rush is a digital game on Brennas Xbox Game Pass account. (ID: G124)"
-"Do we have Sonic Superstars?", "Sonic Superstars is a Switch game owned by Brenna. Its in the game case. (ID: G125)"
-"Wheres The Great Gatsby?", "The Great Gatsby went missing during the move. (ID: B017)"
-"Do we still have Gone Girl?", "Gone Girl is missing — we havent seen it in a while. (ID: B014)"
-"Who borrowed The Catcher in the Rye?", "The Catcher in the Rye is with Sarah. She borrowed it last month. (ID: B019)"
-"Is The Hobbit still here?", "The Hobbit was lent to Mike. He hasnt returned it yet. (ID: B007)"
-"Wheres The Matrix DVD?", "The Matrix is missing. We last saw it in the black DVD binder. (ID: D002)"
-"Do we have Harry Potter and the Sorcerers Stone?", "Harry Potter and the Sorcerers Stone was borrowed by Emma. (ID: A003)"
-"Who has Cyberpunk 2077?", "Cyberpunk 2077 is missing. We cant find it in the Steam library. (ID: G012)"
-"Wheres Blade Runner 2049?", "Blade Runner 2049 was lent to John. He said hed return it soon. (ID: D006)"
-"Is The Hunger Games still around?", "The Hunger Games is missing. It was last seen on the living room shelf. (ID: B022)"
-"Who borrowed The Fault in Our Stars?", "The Fault in Our Stars is with Lisa. She borrowed it a few weeks ago. (ID: B026)"
-"Wheres The Avengers?", "The Avengers Blu-ray is missing. It was last in the black DVD binder. (ID: D021)"
-"Do we still have The Road?", "The Road was lent to Alex. He hasnt returned it yet. (ID: B023)"
-"Who has Inside Out?", "Inside Out is missing. It was supposed to be in the kids movie binder. (ID: D012)"
-"Wheres The Subtle Art of Not Giving a F*ck?", "The Subtle Art of Not Giving a F*ck audiobook is missing from Toms Audible account. (ID: A009)"
-"Is The Lion King still here?", "The Lion King DVD is missing. It was last seen in the kids movie binder. (ID: D018)"
-"Who borrowed The Shining?", "The Shining was lent to Rachel. She said shed return it next week. (ID: B024)"
-"Wheres The Kite Runner?", "The Kite Runner is missing. It was last seen on the living room shelf. (ID: B025)"
-"Do we have The Godfather?", "The Godfather Blu-ray is missing. It was last in the top drawer of the TV console. (ID: D017)"
-"Who has Frozen?", "Frozen DVD is missing. It was supposed to be in the kids movie binder. (ID: D016)"
-"Wheres Moana?", "Moana Blu-ray is missing. It was last seen in the kids movie binder. (ID: D019)"
-"Is The Crown still available?", "The Crown digital series is missing from Brennas Netflix account. (ID: S005)"
-"Who borrowed Downton Abbey?", "Downton Abbey Blu-ray set is with Claire. She borrowed it last month. (ID: D045)"
-"Wheres The Blue Planet?", "The Blue Planet Blu-ray is missing. It was last in the nature section of the DVD shelf. (ID: D046)"
-"Do we still have Torchwood?", "Torchwood DVD set is missing. It was last in the sci-fi section of the media cabinet. (ID: D047)"
-"Who has Call the Midwife?", "Call the Midwife Blu-ray set is with Anna. She borrowed it recently. (ID: D048)"
-user_input,bot_response
-"Where is Dune?", "Yep\, Toms hardcover copy of Dune is on the living room shelf\, id b001."
-"Do we have Gone Girl?", "Gone Girl is actually missing right now; we havent seen it in a while\, id b014."
-"Who owns The Hobbit?", "The Hobbit audiobook belongs to Brenna\, found in the bedroom shelf\, id b007."
-"Is Inside Out on DVD?", "Yep\, Toms copy is in the black DVD binder\, id d002."
-"Do we own Sunrise on the Reaping?", "No\, we don’t have Sunrise on the Reaping in any format."
-"Is Cyberpunk 2077 on PS5?", "Yes\, Brennas PS5 game Cyberpunk 2077 is in the game cabinet\, id g011."
-"Do we have The Great Gatsby as an audiobook?", "No audiobook for The Great Gatsby\, but Toms hardcover is on the living room shelf\, id b005."
-"Is Super Mario Odyssey a Switch game?", "Yep\, Brenna’s Super Mario Odyssey Switch game is in the game cabinet\, id s012."
-"Where’s Inception Blu-ray?", "Toms Blu-ray of Inception is in the living room media shelf\, id d008."
-"Who owns The Martian?", "The Martian Kindle edition is owned by Tom\, in his Amazon library\, id a009."
-"Is Dune lost?", "No\, Dune is safe on the living room shelf\, id b001."
-"Do we share ownership of The Witcher 3?", "Yes\, The Witcher 3 on Steam is shared between Tom and Brenna\, id st015."
-"Is Becoming an audiobook by Brenna?", "Yep\, Brennas audiobook Becoming is on her phone app\, id ab010."
-"Where is Frozen II DVD?", "Frozen II DVD is with Brenna in her room\, id d013."
-"Do we own The Expanse book series?", "Yes\, Tom has the hardcover The Expanse books on the bedroom shelf\, id b020."
-"Is Halo Infinite available on Xbox?", "No Xbox games owned\, but Brenna has Halo Infinite on Steam\, id st018."
-"Who owns Ready Player One audiobook?", "Tom owns Ready Player One audiobook\, stored on his Audible account\, id ab016."
-"Is The Mandalorian on DVD?", "No DVDs of The Mandalorian\, only streaming."
-"Where is Call of Duty PS5 game?", "Brennas Call of Duty PS5 game is in the game cabinet\, id g021."
-"Do we have Normal People as an audiobook?", "Yes\, Tom’s copy of Normal People audiobook is on his phone\, id ab022."
-"Who owns Dark Souls on Steam?", "Tom owns Dark Souls on Steam\, id st023."
-"Is The Alchemist book lost?", "The Alchemist is missing from the bookshelf\, last seen months ago\, id b024."
-"Do we own Spider-Man: Miles Morales on PS5?", "Yes\, Brennas Spider-Man: Miles Morales PS5 game is in the cabinet\, id g025."
-"Where is The Queen’s Gambit DVD?", "The Queen’s Gambit DVD is in the living room binder\, Toms copy\, id d026."
-"Is Educated audiobook Brenna’s?", "Yes\, Brennas audiobook Educated is on her Audible app\, id ab027."
-"Do we have Animal Crossing on Switch?", "Yes\, Tom’s Animal Crossing Switch game is in the game cabinet\, id s028."
-"Where is Blade Runner 2049 Blu-ray?", "Blade Runner 2049 Blu-ray is in the media shelf\, Brennas copy\, id d029."
-"Who owns Harry Potter Kindle edition?", "Tom owns the Harry Potter Kindle books in his Amazon library\, id a030."
-"Is The Office DVD set complete?", "Yes\, complete DVD set owned by Brenna\, in her media binder\, id d031."
-"Do we share Overwatch on Steam?", "Yes\, Overwatch Steam account is shared between Tom and Brenna\, id st032."
-"Is Becoming audiobook lost?", "No\, Brennas Becoming audiobook is safely on her phone\, id ab010."
-"Who owns The Witcher 3 on PS5?", "Only Steam version owned\, no PS5 copy for The Witcher 3."
-"Is Call of Duty Switch game available?", "No\, Call of Duty is only on PS5 for Brenna\, id g021."
-"Where is Breaking Bad DVD?", "Tom’s Breaking Bad DVD is in the living room binder\, id d033."
-"Do we have Dune audiobook?", "No audiobook\, just the hardcover owned by Tom\, id b001."
-"Who owns Super Mario Odyssey Switch game?", "Brenna owns Super Mario Odyssey Switch game\, id s012."
-"Is Halo Infinite Steam game lost?", "Halo Infinite Steam game is safe in Brenna’s Steam library\, id st018."
-"Do we have The Great Gatsby book?", "Yes\, Toms hardcover copy is on the living room shelf\, id b005."
-user_input,bot_response
-"Where can I find the audiobook The Silent Patient?", "Brennas audiobook\, The Silent Patient\, is on her phone app\, id ab034."
-"Is Stranger Things DVD available?", "Yes\, Toms copy of Stranger Things DVD is in the living room media binder\, id d035."
-"Do we own Death Stranding on PS5?", "Yes\, Brenna owns Death Stranding on PS5\, stored in the game cabinet\, id g036."
-"Who has Educated audiobook?", "Thats Brennas audiobook\, Educated\, located on her Audible app\, id ab027."
-"Is The Witcher 3 lost or available?", "No\, The Witcher 3 on Steam is available\, shared by Tom and Brenna\, id st015."
-"Do we share ownership of Cyberpunk 2077?", "No\, Cyberpunk 2077 PS5 game is Brennas alone\, kept in the game cabinet\, id g011."
-"Is The Alchemist hardcover in the bedroom?", "No\, The Alchemist hardcover is missing from the bedroom shelf\, id b024."
-"Where is Toms copy of Inception DVD?", "Toms Inception DVD is in the black binder in the living room\, id d008."
-"Who owns the Harry Potter Kindle editions?", "Tom owns the Harry Potter Kindle editions in his Amazon library\, id a030."
-"Do we have Super Mario Odyssey on Switch?", "Yes\, Brenna owns Super Mario Odyssey Switch game\, located in the game cabinet\, id s012."
-"Is Dune available as an audiobook?", "No audiobook\, only Toms hardcover of Dune on the living room shelf\, id b001."
-"Do we have The Expanse book series?", "Yes\, Tom has the hardcover The Expanse books on the bedroom shelf\, id b020."
-"Is Halo Infinite on Steam or Xbox?", "Brenna owns Halo Infinite on Steam\, no Xbox version\, id st018."
-"Where is The Queen’s Gambit DVD?", "Toms The Queen’s Gambit DVD is in the living room binder\, id d026."
-"Do we own Call of Duty on PS5?", "Brennas Call of Duty PS5 game is in the game cabinet\, id g021."
-"Is Becoming audiobook lost?", "No\, Brennas audiobook Becoming is safe on her phone app\, id ab010."
-"Who owns Dark Souls on Steam?", "Tom owns Dark Souls on Steam\, id st023."
-"Where can I find Normal People audiobook?", "Toms copy of Normal People audiobook is on his phone\, id ab022."
-"Is The Office DVD set complete?", "Yes\, Brenna has the complete The Office DVD set in her media binder\, id d031."
-"Do we share Overwatch on Steam?", "Yes\, Overwatch Steam account is shared between Tom and Brenna\, id st032."
-"Where is the Frozen II DVD?", "Brennas Frozen II DVD is in her room\, id d013."
-"Who owns the Ready Player One audiobook?", "Tom owns Ready Player One audiobook\, stored on his Audible account\, id ab016."
-"Is Spider-Man: Miles Morales PS5 game available?", "Yes\, Brennas Spider-Man: Miles Morales PS5 game is in the game cabinet\, id g025."
-"Do we have Animal Crossing on Switch?", "Yes\, Tom owns Animal Crossing Switch game in the game cabinet\, id s028."
-"Is Blade Runner 2049 Blu-ray lost?", "No\, Brennas Blade Runner 2049 Blu-ray is in the media shelf\, id d029."
-"Do we own The Great Gatsby hardcover?", "Yes\, Toms hardcover copy of The Great Gatsby is on the living room shelf\, id b005."
-"Is Gone Girl book missing?", "Gone Girl hardcover is currently missing\, last seen months ago\, id b014."
-"Who owns The Martian Kindle edition?", "Tom owns The Martian Kindle edition\, id a009."
-"Is Breaking Bad DVD in the media binder?", "Toms Breaking Bad DVD is in the living room binder\, id d033."
-"Do we have The Hobbit audiobook?", "Yes\, Brenna owns The Hobbit audiobook\, in the bedroom shelf\, id b007."
-"Where is Cyberpunk 2077 PS5 game?", "Brennas Cyberpunk 2077 PS5 game is in the game cabinet\, id g011."
-"Is Dune hardcover lost or available?", "Dune hardcover is available on the living room shelf\, id b001."
-"Who owns The Witcher 3 Steam copy?", "Shared ownership between Tom and Brenna for The Witcher 3 on Steam\, id st015."
-"Is Educated audiobook on Brenna’s phone?", "Yes\, Educated audiobook is on Brennas phone app\, id ab027."
-"Do we have Super Mario Odyssey in the game cabinet?", "Yes\, Brenna’s Super Mario Odyssey Switch game is in the game cabinet\, id s012."
-"Where is Halo Infinite Steam game?", "Halo Infinite is safe in Brenna’s Steam library\, id st018."
-"Is The Alchemist hardcover missing?", "The Alchemist hardcover is currently missing from the bookshelf\, id b024."
-"Who owns Call of Duty PS5?", "Brenna owns Call of Duty PS5 game in the game cabinet\, id g021."
-"Do we have Normal People audiobook?", "Yes\, Tom owns Normal People audiobook on his phone\, id ab022."
-"Is The Office DVD set owned by Brenna?", "Yes\, Brenna owns the complete DVD set of The Office\, id d031."
-"Where is Overwatch Steam account?", "Shared between Tom and Brenna\, id st032."
-"Is The Silent Patient audiobook Brennas?", "Yes\, Brennas The Silent Patient audiobook is on her phone app\, id ab034."
-"Do we have Death Stranding PS5 game?", "Brenna owns Death Stranding PS5 game\, in the game cabinet\, id g036."
-"Who owns Stranger Things DVD?", "Tom owns Stranger Things DVD\, stored in the living room media binder\, id d035."
-"Is Blade Runner 2049 Blu-ray with Brenna?", "Yes\, Brenna’s copy of Blade Runner 2049 Blu-ray is in the media shelf\, id d029."
-"Do we have The Matrix on DVD, and is it Tom's copy?","Yes\, Tom’s copy of The Matrix DVD is in the living room shelf\, id m003."
-"Where is The Hobbit audiobook?","Brenna’s copy of The Hobbit audiobook is on the nightstand\, id h015."
-"Is there a PS5 game\, God of War Ragnarok\, around?","Yes\, Tom’s copy of God of War Ragnarok PS5 game is in the TV cabinet\, id g021."
-"Can I find the game Stardew Valley on Steam?","Yes\, Brenna’s copy of Stardew Valley on Steam is on her account\, id s010."
-"Where's the book 1984?","Tom’s copy of 1984 is on the shelf by the window\, id b007."
-"Has anyone seen Inception on Blu-ray?","Brenna’s copy of Inception Blu-ray is in the movie rack\, id i045."
-"Do we own The Witcher 3 on Switch?","Yes\, Tom’s copy of The Witcher 3 Switch game is in the game drawer\, id w009."
-"Is there a DVD of Interstellar?","Yes\, Brenna’s copy of Interstellar DVD is in the media center\, id i017."
-"Do we have an audiobook of Harry Potter and the Sorcerer's Stone?","Tom’s copy of Harry Potter and the Sorcerer's Stone audiobook is on the bookshelf\, id h022."
-"Where is the Blu-ray of Avatar?","Brenna’s copy of Avatar Blu-ray is in the living room cabinet\, id a004."
-"Avatar the last airbender", "Avatar the Last Airbender is Brenna's copy and is in the living room desk."
-"Blade Runner 2049","Yes\, Brenna’s copy of Blade Runner 2049 Blu-ray is in the media shelf\, id d029."
-"Halo Infinite","Yes\, Brenna’s copy of Halo Infinite is on Steam\, id st018."
-"The Alchemist","The Alchemist hardcover is currently missing from the bookshelf\, id b024."
-"Call of Duty","Brenna owns Call of Duty PS5 game in the game cabinet\, id g021."
-"Normal People","Yes\, Tom owns Normal People audiobook on his phone\, id ab022."
-"The Office","Yes\, Brenna owns the complete DVD set of The Office\, id d031."
-"Overwatch","Shared between Tom and Brenna\, id st032."
-"The Silent Patient","Yes\, Brenna’s The Silent Patient audiobook is on her phone app\, id ab034."
-"Death Stranding","Brenna owns Death Stranding PS5 game\, in the game cabinet\, id g036."
-"Stranger Things","Tom owns Stranger Things DVD\, stored in the living room media binder\, id d035."
-"The Matrix","Yes\, Tom’s copy of The Matrix DVD is in the living room shelf\, id m003."
-"The Hobbit","Brenna’s copy of The Hobbit audiobook is on the nightstand\, id h015."
-"God of War Ragnarok","Yes\, Tom’s copy of God of War Ragnarok PS5 game is in the TV cabinet\, id g021."
-"Stardew Valley","Yes\, Brenna’s copy of Stardew Valley on Steam is on her account\, id s010."
-"1984","Tom’s copy of 1984 is on the shelf by the window\, id b007."
-"Inception","Brenna’s copy of Inception Blu-ray is in the movie rack\, id i045."
-"The Witcher 3","Yes\, Tom’s copy of The Witcher 3 Switch game is in the game drawer\, id w009."
-"Interstellar","Yes\, Brenna’s copy of Interstellar DVD is in the media center\, id i017."
-"Harry Potter and the Sorcerer's Stone","Tom’s copy of Harry Potter and the Sorcerer's Stone audiobook is on the bookshelf\, id h022."
-"Avatar","Brenna’s copy of Avatar Blu-ray is in the living room cabinet\, id a004."
-"Avatar the Last Airbender","Avatar the Last Airbender is Brenna's copy and is in the living room desk."
-"Super Mario Odyssey","Super Mario Odyssey is Tom’s Switch game\, stored in the game drawer\, id w010."
-"The Witcher 3","Brenna owns The Witcher 3 on PC\, in her Steam library\, id w011."
-"Jurassic Park","Your copy of Jurassic Park DVD is in the media shelf\, id d041."
-"The Catcher in the Rye","Tom owns The Catcher in the Rye audiobook\, stored on his phone\, id ab023."
-"The Shawshank Redemption","Yes\, Tom’s copy of The Shawshank Redemption DVD is in the movie rack\, id s001."
-"The Godfather","Yes\, Brenna’s copy of The Godfather Blu-ray is on the shelf by the window\, id g002."
-"The Dark Knight","Yes\, Tom’s copy of The Dark Knight Blu-ray is in the living room shelf\, id d003."
-"Pulp Fiction","Brenna owns Pulp Fiction DVD\, stored in the media center\, id p004."
-"Forrest Gump","Yes\, Tom’s copy of Forrest Gump Blu-ray is in the TV cabinet\, id f005."
-"The Lord of the Rings: The Return of the King","Yes\, Brenna’s copy of The Lord of the Rings: The Return of the King DVD is in the movie shelf\, id l006."
-"Inception","Brenna’s copy of Inception Blu-ray is in the movie rack\, id i045."
-"Fight Club","Tom’s copy of Fight Club DVD is in the bookshelf\, id f007."
-"Forrest Gump","Yes\, Tom’s copy of Forrest Gump Blu-ray is in the TV cabinet\, id f005."
-"The Matrix","Yes\, Tom’s copy of The Matrix DVD is in the living room shelf\, id m003."
-"The Empire Strikes Back","Brenna’s copy of The Empire Strikes Back Blu-ray is on the media shelf\, id e008."
-"The Good, the Bad and the Ugly","Tom owns The Good\, the Bad and the Ugly DVD\, stored in the game cabinet\, id g009."
-"The Lion King","Brenna’s copy of The Lion King DVD is in the living room media shelf\, id l010."
-"The Dark Knight Rises","Yes\, Tom’s copy of The Dark Knight Rises Blu-ray is on the bookshelf\, id d011."
-"Gladiator","Brenna owns Gladiator Blu-ray\, in the movie binder\, id g012."
-"Titanic","Yes\, Tom’s copy of Titanic DVD is in the movie rack\, id t013."
-"The Prestige","Yes\, Brenna’s copy of The Prestige Blu-ray is in the media center\, id p014."
-"The Departed","Tom’s copy of The Departed DVD is on the bookshelf\, id d015."
-"Goodfellas","Yes\, Brenna’s copy of Goodfellas Blu-ray is in the movie shelf\, id g016."
-"Back to the Future","Tom’s copy of Back to the Future DVD is in the living room\, id b017."
-"Star Wars: A New Hope","Brenna’s copy of Star Wars: A New Hope Blu-ray is on the shelf\, id s018."
-"The Godfather Part II","Yes\, Tom owns The Godfather Part II DVD in the media center\, id g019."
-"Schindler’s List","Brenna’s copy of Schindler’s List Blu-ray is in the movie rack\, id s020."
-"The Silence of the Lambs","Yes\, Tom’s copy of The Silence of the Lambs DVD is in the bookshelf\, id t021."
-"Jurassic Park","Your copy of Jurassic Park DVD is in the media shelf\, id d041."
-"Add 'Granny Square Sourcebook'", "Who own's the book?"
-"Add 'The Hobbit'", "Who own's the book?"
-"Add 'Pride and Prejudice'", "Who own's the book?"
-"Add 'To Kill a Mockingbird'", "Who own's the book?"
-"Add '1984'", "Who own's the book?"
-"Add 'Moby Dick'", "Who own's the book?"
-"Add 'War and Peace'", "Who own's the book?"
-"Add 'The Catcher in the Rye'", "Who own's the book?"
-"Add 'Little Women'", "Who own's the book?"
-"Add 'Great Expectations'", "Who own's the book?"
-"Add 'Jane Eyre'", "Who own's the book?"
-"Add 'The Odyssey'", "Who own's the book?"
-"Add 'Hamlet'", "Who own's the book?"
-"Add 'Macbeth'", "Who own's the book?"
-"Add 'The Divine Comedy'", "Who own's the book?"
-"Add 'Crime and Punishment'", "Who own's the book?"
-"Add 'Wuthering Heights'", "Who own's the book?"
-"Add 'The Picture of Dorian Gray'", "Who own's the book?"
-"Add 'Brave New World'", "Who own's the book?"
-"Add 'Anna Karenina'", "Who own's the book?"
-"Brenna recently added 'Dune' to the kitchen bookshelf", "What media is it?"
-"Tom recently added 'Foundation' to the living room bookshelf", "What media is it?"
-"Alice recently added 'The Expanse' to the bedroom bookshelf", "What media is it?"
-"David recently added 'Neuromancer' to the office bookshelf", "What media is it?"
-"Sarah recently added 'Snow Crash' to the study bookshelf", "What media is it?"
-"Mark recently added 'Hyperion' to the kitchen bookshelf", "What media is it?"
-"Emma recently added 'The Martian' to the living room bookshelf", "What media is it?"
-"John recently added 'Ender's Game' to the bedroom bookshelf", "What media is it?"
-"Lucy recently added 'Ringworld' to the office bookshelf", "What media is it?"
-"Paul recently added 'Fahrenheit 451' to the study bookshelf", "What media is it?"
-"Nina recently added 'Do Androids Dream of Electric Sheep?' to the kitchen bookshelf", "What media is it?"
-"Oscar recently added 'Solaris' to the living room bookshelf", "What media is it?"
-"Clara recently added 'A Canticle for Leibowitz' to the bedroom bookshelf", "What media is it?"
-"Ethan recently added 'The Left Hand of Darkness' to the office bookshelf", "What media is it?"
-"Liam recently added 'Red Mars' to the study bookshelf", "What media is it?"
-"Sophia recently added 'Childhood's End' to the kitchen bookshelf", "What media is it?"
-"Mia recently added 'The Moon is a Harsh Mistress' to the living room bookshelf", "What media is it?"
-"Noah recently added 'The Forever War' to the bedroom bookshelf", "What media is it?"
-"Ava recently added 'Contact' to the office bookshelf", "What media is it?"
-"Isabella recently added 'The Road' to the study bookshelf", "What media is it?"
-"Brenna recently added the book 'Dracula' to the kitchen bookshelf.", "Media was added to the library."
-"Tom recently added the book 'Frankenstein' to the living room bookshelf.", "Media was added to the library."
-"Alice recently added the book 'The Shining' to the bedroom bookshelf.", "Media was added to the library."
-"David recently added the book 'It' to the office bookshelf.", "Media was added to the library."
-"Sarah recently added the book 'Pet Sematary' to the study bookshelf.", "Media was added to the library."
-"Mark recently added the book 'Salem's Lot' to the kitchen bookshelf.", "Media was added to the library."
-"Emma recently added the book 'Carrie' to the living room bookshelf.", "Media was added to the library."
-"John recently added the book 'Misery' to the bedroom bookshelf.", "Media was added to the library."
-"Lucy recently added the book 'The Stand' to the office bookshelf.", "Media was added to the library."
-"Paul recently added the book 'Under the Dome' to the study bookshelf.", "Media was added to the library."
-"Nina recently added the book 'Doctor Sleep' to the kitchen bookshelf.", "Media was added to the library."
-"Oscar recently added the book 'The Institute' to the living room bookshelf.", "Media was added to the library."
-"Clara recently added the book 'Gerald's Game' to the bedroom bookshelf.", "Media was added to the library."
-"Ethan recently added the book 'Bag of Bones' to the office bookshelf.", "Media was added to the library."
-"Liam recently added the book 'Lisey's Story' to the study bookshelf.", "Media was added to the library."
-"Sophia recently added the book 'Revival' to the kitchen bookshelf.", "Media was added to the library."
-"Mia recently added the book 'Needful Things' to the living room bookshelf.", "Media was added to the library."
-"Noah recently added the book 'Different Seasons' to the bedroom bookshelf.", "Media was added to the library."
-"Ava recently added the book 'Night Shift' to the office bookshelf.", "Media was added to the library."
-"Isabella recently added the book 'Skeleton Crew' to the study bookshelf.", "Media was added to the library."
-"Add 'The Iliad'", "Who own's the book?"
-"Add 'Don Quixote'", "Who own's the book?"
-"Add 'The Brothers Karamazov'", "Who own's the book?"
-"Add 'Les Misérables'", "Who own's the book?"
-"Add 'The Count of Monte Cristo'", "Who own's the book?"
-"Add 'Madame Bovary'", "Who own's the book?"
-"Add 'The Grapes of Wrath'", "Who own's the book?"
-"Add 'Catch-22'", "Who own's the book?"
-"Add 'Slaughterhouse-Five'", "Who own's the book?"
-"Add 'Beloved'", "Who own's the book?"
-"Add 'Invisible Man'", "Who own's the book?"
-"Add 'Things Fall Apart'", "Who own's the book?"
-"Add 'The Old Man and the Sea'", "Who own's the book?"
-"Add 'Heart of Darkness'", "Who own's the book?"
-"Add 'The Sound and the Fury'", "Who own's the book?"
-"Add 'Ulysses'", "Who own's the book?"
-"Add 'One Hundred Years of Solitude'", "Who own's the book?"
-"Add 'Love in the Time of Cholera'", "Who own's the book?"
-"Add 'The Stranger'", "Who own's the book?"
-"Add 'The Trial'", "Who own's the book?"
-"George recently added 'The Silmarillion' to the kitchen bookshelf", "What media is it?"
-"Emma recently added 'Good Omens' to the living room bookshelf", "What media is it?"
-"Lucas recently added 'American Gods' to the bedroom bookshelf", "What media is it?"
-"Hannah recently added 'Neverwhere' to the office bookshelf", "What media is it?"
-"James recently added 'Stardust' to the study bookshelf", "What media is it?"
-"Clara recently added 'Coraline' to the kitchen bookshelf", "What media is it?"
-"Michael recently added 'Anansi Boys' to the living room bookshelf", "What media is it?"
-"Sophie recently added 'Jonathan Strange & Mr Norrell' to the bedroom bookshelf", "What media is it?"
-"Daniel recently added 'The Name of the Wind' to the office bookshelf", "What media is it?"
-"Olivia recently added 'The Wise Man's Fear' to the study bookshelf", "What media is it?"
-"Henry recently added 'The Way of Kings' to the kitchen bookshelf", "What media is it?"
-"Grace recently added 'Words of Radiance' to the living room bookshelf", "What media is it?"
-"Ella recently added 'Oathbringer' to the bedroom bookshelf", "What media is it?"
-"Jack recently added 'Rhythm of War' to the office bookshelf", "What media is it?"
-"Amelia recently added 'Mistborn' to the study bookshelf", "What media is it?"
-"Leo recently added 'The Alloy of Law' to the kitchen bookshelf", "What media is it?"
-"Charlotte recently added 'Shadows of Self' to the living room bookshelf", "What media is it?"
-"Benjamin recently added 'The Bands of Mourning' to the bedroom bookshelf", "What media is it?"
-"Lily recently added 'Elantris' to the office bookshelf", "What media is it?"
-"Samuel recently added 'Warbreaker' to the study bookshelf", "What media is it?"
-"George recently added the book 'The Hunger Games' to the kitchen bookshelf.", "Media was added to the library."
-"Emma recently added the book 'Catching Fire' to the living room bookshelf.", "Media was added to the library."
-"Lucas recently added the book 'Mockingjay' to the bedroom bookshelf.", "Media was added to the library."
-"Hannah recently added the book 'Divergent' to the office bookshelf.", "Media was added to the library."
-"James recently added the book 'Insurgent' to the study bookshelf.", "Media was added to the library."
-"Clara recently added the book 'Allegiant' to the kitchen bookshelf.", "Media was added to the library."
-"Michael recently added the book 'The Maze Runner' to the living room bookshelf.", "Media was added to the library."
-"Sophie recently added the book 'The Scorch Trials' to the bedroom bookshelf.", "Media was added to the library."
-"Daniel recently added the book 'The Death Cure' to the office bookshelf.", "Media was added to the library."
-"Olivia recently added the book 'The Kill Order' to the study bookshelf.", "Media was added to the library."
-"Henry recently added the book 'The Fever Code' to the kitchen bookshelf.", "Media was added to the library."
-"Grace recently added the book 'Ready Player One' to the living room bookshelf.", "Media was added to the library."
-"Ella recently added the book 'Ready Player Two' to the bedroom bookshelf.", "Media was added to the library."
-"Jack recently added the book 'Artemis' to the office bookshelf.", "Media was added to the library."
-"Amelia recently added the book 'Project Hail Mary' to the study bookshelf.", "Media was added to the library."
-"Leo recently added the book 'The Windup Girl' to the kitchen bookshelf.", "Media was added to the library."
-"Charlotte recently added the book 'The Water Knife' to the living room bookshelf.", "Media was added to the library."
-"Benjamin recently added the book 'Station Eleven' to the bedroom bookshelf.", "Media was added to the library."
-"Lily recently added the book 'Sea of Tranquility' to the office bookshelf.", "Media was added to the library."
-"Samuel recently added the book 'The Glass Hotel' to the study bookshelf.", "Media was added to the library."
-"Brenna recently gave away 'Dracula'", "Updated 'Dracula' to 'No longer owned'"
-"Tom recently gave away 'The Hobbit'", "Updated 'The Hobbit' to 'No longer owned'"
-"Alice recently gave away 'Pride and Prejudice'", "Updated 'Pride and Prejudice' to 'No longer owned'"
-"David recently gave away 'Dune'", "Updated 'Dune' to 'No longer owned'"
-"Sarah recently gave away 'Neuromancer'", "Updated 'Neuromancer' to 'No longer owned'"
-"Mark recently gave away 'Moby Dick'", "Updated 'Moby Dick' to 'No longer owned'"
-"Emma recently gave away 'Frankenstein'", "Updated 'Frankenstein' to 'No longer owned'"
-"John recently gave away 'Ender’s Game'", "Updated 'Ender’s Game' to 'No longer owned'"
-"Lucy recently gave away 'Little Women'", "Updated 'Little Women' to 'No longer owned'"
-"Paul recently gave away 'Ringworld'", "Updated 'Ringworld' to 'No longer owned'"
-"Nina recently gave away 'The Odyssey'", "Updated 'The Odyssey' to 'No longer owned'"
-"Oscar recently gave away 'Hamlet'", "Updated 'Hamlet' to 'No longer owned'"
-"Clara recently gave away 'Macbeth'", "Updated 'Macbeth' to 'No longer owned'"
-"Ethan recently gave away 'The Divine Comedy'", "Updated 'The Divine Comedy' to 'No longer owned'"
-"Liam recently gave away 'War and Peace'", "Updated 'War and Peace' to 'No longer owned'"
-"Sophia recently gave away 'Crime and Punishment'", "Updated 'Crime and Punishment' to 'No longer owned'"
-"Mia recently gave away 'The Left Hand of Darkness'", "Updated 'The Left Hand of Darkness' to 'No longer owned'"
-"Noah recently gave away 'Red Mars'", "Updated 'Red Mars' to 'No longer owned'"
-"Ava recently gave away 'The Road'", "Updated 'The Road' to 'No longer owned'"
-"Isabella recently gave away 'The Shining'", "Updated 'The Shining' to 'No longer owned'"
-"George recently gave away 'The Hunger Games'", "Updated 'The Hunger Games' to 'No longer owned'"
-"Hannah recently gave away 'Catching Fire'", "Updated 'Catching Fire' to 'No longer owned'"
-"Lucas recently gave away 'Mockingjay'", "Updated 'Mockingjay' to 'No longer owned'"
-"James recently gave away 'Divergent'", "Updated 'Divergent' to 'No longer owned'"
-"Olivia recently gave away 'Insurgent'", "Updated 'Insurgent' to 'No longer owned'"
-"Henry recently gave away 'Allegiant'", "Updated 'Allegiant' to 'No longer owned'"
-"Grace recently gave away 'The Maze Runner'", "Updated 'The Maze Runner' to 'No longer owned'"
-"Ella recently gave away 'The Scorch Trials'", "Updated 'The Scorch Trials' to 'No longer owned'"
-"Jack recently gave away 'The Death Cure'", "Updated 'The Death Cure' to 'No longer owned'"
-"Amelia recently gave away 'Ready Player One'", "Updated 'Ready Player One' to 'No longer owned'"
-"Leo recently gave away 'Project Hail Mary'", "Updated 'Project Hail Mary' to 'No longer owned'"
-"Tom recently lost 'Avatar the Last Airbender'", "Updated 'Avatar the Last Airbender' to 'Lost'"
-"Brenna recently lost 'The Hobbit'", "Updated 'The Hobbit' to 'Lost'"
-"Alice recently lost 'Pride and Prejudice'", "Updated 'Pride and Prejudice' to 'Lost'"
-"David recently lost 'Dune'", "Updated 'Dune' to 'Lost'"
-"Sarah recently lost 'Neuromancer'", "Updated 'Neuromancer' to 'Lost'"
-"Mark recently lost 'Moby Dick'", "Updated 'Moby Dick' to 'Lost'"
-"Emma recently lost 'Frankenstein'", "Updated 'Frankenstein' to 'Lost'"
-"John recently lost 'Ender’s Game'", "Updated 'Ender’s Game' to 'Lost'"
-"Lucy recently lost 'Little Women'", "Updated 'Little Women' to 'Lost'"
-"Paul recently lost 'Ringworld'", "Updated 'Ringworld' to 'Lost'"
-"Nina recently lost 'The Odyssey'", "Updated 'The Odyssey' to 'Lost'"
-"Oscar recently lost 'Hamlet'", "Updated 'Hamlet' to 'Lost'"
-"Clara recently lost 'Macbeth'", "Updated 'Macbeth' to 'Lost'"
-"Ethan recently lost 'The Divine Comedy'", "Updated 'The Divine Comedy' to 'Lost'"
-"Liam recently lost 'War and Peace'", "Updated 'War and Peace' to 'Lost'"
-"Sophia recently lost 'Crime and Punishment'", "Updated 'Crime and Punishment' to 'Lost'"
-"Mia recently lost 'The Left Hand of Darkness'", "Updated 'The Left Hand of Darkness' to 'Lost'"
-"Noah recently lost 'Red Mars'", "Updated 'Red Mars' to 'Lost'"
-"Ava recently lost 'The Road'", "Updated 'The Road' to 'Lost'"
-"Isabella recently lost 'The Shining'", "Updated 'The Shining' to 'Lost'"
-"George recently lost 'The Hunger Games'", "Updated 'The Hunger Games' to 'Lost'"
-"Hannah recently lost 'Catching Fire'", "Updated 'Catching Fire' to 'Lost'"
-"Lucas recently lost 'Mockingjay'", "Updated 'Mockingjay' to 'Lost'"
-"James recently lost 'Divergent'", "Updated 'Divergent' to 'Lost'"
-"Olivia recently lost 'Insurgent'", "Updated 'Insurgent' to 'Lost'"
-"Henry recently lost 'Allegiant'", "Updated 'Allegiant' to 'Lost'"
-"Grace recently lost 'The Maze Runner'", "Updated 'The Maze Runner' to 'Lost'"
-"Ella recently lost 'The Scorch Trials'", "Updated 'The Scorch Trials' to 'Lost'"
-"Jack recently lost 'The Death Cure'", "Updated 'The Death Cure' to 'Lost'"
-"Amelia recently lost 'Ready Player One'", "Updated 'Ready Player One' to 'Lost'"
-"Leo recently lost 'Project Hail Mary'", "Updated 'Project Hail Mary' to 'Lost'"
-"Brenna loaned 'Dracula' to Tom", "Updated 'Dracula' to 'Loaned to Tom'"
-"Tom loaned 'The Hobbit' to Alice", "Updated 'The Hobbit' to 'Loaned to Alice'"
-"Alice loaned 'Pride and Prejudice' to David", "Updated 'Pride and Prejudice' to 'Loaned to David'"
-"David loaned 'Dune' to Sarah", "Updated 'Dune' to 'Loaned to Sarah'"
-"Sarah loaned 'Neuromancer' to Mark", "Updated 'Neuromancer' to 'Loaned to Mark'"
-"Mark loaned 'Moby Dick' to Emma", "Updated 'Moby Dick' to 'Loaned to Emma'"
-"Emma loaned 'Frankenstein' to John", "Updated 'Frankenstein' to 'Loaned to John'"
-"John loaned 'Ender’s Game' to Lucy", "Updated 'Ender’s Game' to 'Loaned to Lucy'"
-"Lucy loaned 'Little Women' to Paul", "Updated 'Little Women' to 'Loaned to Paul'"
-"Paul loaned 'Ringworld' to Nina", "Updated 'Ringworld' to 'Loaned to Nina'"
-"Nina loaned 'The Odyssey' to Oscar", "Updated 'The Odyssey' to 'Loaned to Oscar'"
-"Oscar loaned 'Hamlet' to Clara", "Updated 'Hamlet' to 'Loaned to Clara'"
-"Clara loaned 'Macbeth' to Ethan", "Updated 'Macbeth' to 'Loaned to Ethan'"
-"Ethan loaned 'The Divine Comedy' to Liam", "Updated 'The Divine Comedy' to 'Loaned to Liam'"
-"Liam loaned 'War and Peace' to Sophia", "Updated 'War and Peace' to 'Loaned to Sophia'"
-"Sophia loaned 'Crime and Punishment' to Mia", "Updated 'Crime and Punishment' to 'Loaned to Mia'"
-"Mia loaned 'The Left Hand of Darkness' to Noah", "Updated 'The Left Hand of Darkness' to 'Loaned to Noah'"
-"Noah loaned 'Red Mars' to Ava", "Updated 'Red Mars' to 'Loaned to Ava'"
-"Ava loaned 'The Road' to Isabella", "Updated 'The Road' to 'Loaned to Isabella'"
-"Isabella loaned 'The Shining' to George", "Updated 'The Shining' to 'Loaned to George'"
-"George loaned 'The Hunger Games' to Hannah", "Updated 'The Hunger Games' to 'Loaned to Hannah'"
-"Hannah loaned 'Catching Fire' to Lucas", "Updated 'Catching Fire' to 'Loaned to Lucas'"
-"Lucas loaned 'Mockingjay' to James", "Updated 'Mockingjay' to 'Loaned to James'"
-"James loaned 'Divergent' to Olivia", "Updated 'Divergent' to 'Loaned to Olivia'"
-"Olivia loaned 'Insurgent' to Henry", "Updated 'Insurgent' to 'Loaned to Henry'"
-"Henry loaned 'Allegiant' to Grace", "Updated 'Allegiant' to 'Loaned to Grace'"
-"Grace loaned 'The Maze Runner' to Ella", "Updated 'The Maze Runner' to 'Loaned to Ella'"
-"Ella loaned 'The Scorch Trials' to Jack", "Updated 'The Scorch Trials' to 'Loaned to Jack'"
-"Jack loaned 'The Death Cure' to Amelia", "Updated 'The Death Cure' to 'Loaned to Amelia'"
-"Amelia loaned 'Ready Player One' to Leo", "Updated 'Ready Player One' to 'Loaned to Leo'"
-"Leo loaned 'Project Hail Mary' to Charlotte", "Updated 'Project Hail Mary' to 'Loaned to Charlotte'"
-"Charlotte loaned 'The Iliad' to Benjamin", "Updated 'The Iliad' to 'Loaned to Benjamin'"
-"Benjamin loaned 'Don Quixote' to Lily", "Updated 'Don Quixote' to 'Loaned to Lily'"
-"Lily loaned 'The Brothers Karamazov' to Samuel", "Updated 'The Brothers Karamazov' to 'Loaned to Samuel'"
-"Samuel loaned 'Les Misérables' to Brenna", "Updated 'Les Misérables' to 'Loaned to Brenna'"
-"Brenna loaned 'The Count of Monte Cristo' to Tom", "Updated 'The Count of Monte Cristo' to 'Loaned to Tom'"
-"Tom loaned 'Madame Bovary' to Alice", "Updated 'Madame Bovary' to 'Loaned to Alice'"
-"Alice loaned 'The Grapes of Wrath' to David", "Updated 'The Grapes of Wrath' to 'Loaned to David'"
-"David loaned 'Catch-22' to Sarah", "Updated 'Catch-22' to 'Loaned to Sarah'"
-"Sarah loaned 'Slaughterhouse-Five' to Mark", "Updated 'Slaughterhouse-Five' to 'Loaned to Mark'"
-"Mark loaned 'Beloved' to Emma", "Updated 'Beloved' to 'Loaned to Emma'"
-"Emma loaned 'Invisible Man' to John", "Updated 'Invisible Man' to 'Loaned to John'"
-"John loaned 'Things Fall Apart' to Lucy", "Updated 'Things Fall Apart' to 'Loaned to Lucy'"
-"Lucy loaned 'The Old Man and the Sea' to Paul", "Updated 'The Old Man and the Sea' to 'Loaned to Paul'"
-"Paul loaned 'Heart of Darkness' to Nina", "Updated 'Heart of Darkness' to 'Loaned to Nina'"
-"Nina loaned 'The Sound and the Fury' to Oscar", "Updated 'The Sound and the Fury' to 'Loaned to Oscar'"
-"Oscar loaned 'Ulysses' to Clara", "Updated 'Ulysses' to 'Loaned to Clara'"
-"Clara loaned 'One Hundred Years of Solitude' to Ethan", "Updated 'One Hundred Years of Solitude' to 'Loaned to Ethan'"
-"Ethan loaned 'Love in the Time of Cholera' to Liam", "Updated 'Love in the Time of Cholera' to 'Loaned to Liam'"
-"Liam loaned 'The Stranger' to Sophia", "Updated 'The Stranger' to 'Loaned to Sophia'"
-"Sophia loaned 'The Trial' to Mia", "Updated 'The Trial' to 'Loaned to Mia'"
-"Mia loaned 'Fahrenheit 451' to Noah", "Updated 'Fahrenheit 451' to 'Loaned to Noah'"
-"Noah loaned 'Do Androids Dream of Electric Sheep?' to Ava", "Updated 'Do Androids Dream of Electric Sheep?' to 'Loaned to Ava'"
-"Ava loaned 'Solaris' to Isabella", "Updated 'Solaris' to 'Loaned to Isabella'"
-"Isabella loaned 'A Canticle for Leibowitz' to George", "Updated 'A Canticle for Leibowitz' to 'Loaned to George'"
-"George loaned 'Childhood’s End' to Hannah", "Updated 'Childhood’s End' to 'Loaned to Hannah'"
-"Hannah loaned 'The Forever War' to Lucas", "Updated 'The Forever War' to 'Loaned to Lucas'"
-"Lucas loaned 'The Moon is a Harsh Mistress' to James", "Updated 'The Moon is a Harsh Mistress' to 'Loaned to James'"
-"James loaned 'Contact' to Olivia", "Updated 'Contact' to 'Loaned to Olivia'"
-"Olivia loaned 'The Martian' to Henry", "Updated 'The Martian' to 'Loaned to Henry'"
-"Henry loaned 'Foundation' to Grace", "Updated 'Foundation' to 'Loaned to Grace'"
-"Grace loaned 'Snow Crash' to Ella", "Updated 'Snow Crash' to 'Loaned to Ella'"
-"Ella loaned 'Hyperion' to Jack", "Updated 'Hyperion' to 'Loaned to Jack'"
+"Hey\, where's the book 'Dune'?",search_media
+Do we have 'Animal Crossing'?,search_media
+Is 'The Last of Us Part II' a movie or a game?,search_media
+Do we own 'Harry Potter and the Sorcerer's Stone'?,search_media
+Where can I find 'Blade Runner 2049'?,search_media
+Can I play 'Cyberpunk 2077' on the PS5?,search_media
+Which Switch games does Brenna have?,search_media
+What's the format for 'Pride and Prejudice'?,search_media
+Do we still have 'The Matrix' DVD?,search_media
+Do we have an audiobook version of 'Dune' too?,search_media
+Who owns 'Red Dead Redemption 2'?,search_media
+Where can I listen to 'Educated'?,search_media
+Do we have 'Stardew Valley' anywhere?,search_media
+Is 'The Hobbit' a real book or digital?,search_media
+Where's our copy of 'Interstellar'?,search_media
+What kind of media is 'Becoming'?,search_media
+Does Tom have any digital games?,search_media
+Where's 'Hades' saved?,search_media
+Do we own any books by Jane Austen?,search_media
+Is 'Ghost of Tsushima' in our collection?,search_media
+Is 'Gone Girl' still around?,search_media
+Who owns 'Celeste'?,search_media
+Do we both have access to 'The Witcher 3'?,search_media
+Did we lose 'The Great Gatsby'?,search_media
+Where's 'Inside Out'?,search_media
+Can I find 'The Subtle Art of Not Giving a F*ck' somewhere?,search_media
+Who owns 'Mario Kart'?,search_media
+Do we have 'The Catcher in the Rye'?,search_media
+Where's 'The Legend of Zelda: Breath of the Wild'?,search_media
+Can I watch 'Inception'?,search_media
+Do we own 'The Alchemist'?,search_media
+Who has 'Hollow Knight'?,search_media
+Where can I find 'Frozen'?,search_media
+Is '1984' still in our collection?,search_media
+Do we have 'The Godfather'?,search_media
+Can I listen to 'Atomic Habits'?,search_media
+Where's 'Super Mario Odyssey'?,search_media
+Do we still have 'The Hunger Games'?,search_media
+Who owns 'Portal 2'?,search_media
+Where can I watch 'The Lion King'?,search_media
+Do we have 'The Road'?,search_media
+Can I play 'Overwatch'?,search_media
+Where's 'Moana'?,search_media
+Do we own 'The Shining'?,search_media
+Who has 'Dark Souls III'?,search_media
+Where can I find 'Coco'?,search_media
+Is 'The Kite Runner' in our collection?,search_media
+Do we have 'Sekiro: Shadows Die Twice'?,search_media
+Can I listen to 'Becoming'?,search_media
+Where's 'The Avengers'?,search_media
+Do we still have 'The Fault in Our Stars'?,search_media
+Who owns 'Minecraft'?,search_media
+Do we have 'Sherlock' on DVD?,search_media
+Where can I find 'Doctor Who'?,search_media
+Is 'Luther' in our collection?,search_media
+Do we own 'The Office (UK)'?,search_media
+Can I watch 'Peaky Blinders'?,search_media
+Where's 'Planet Earth'?,search_media
+Do we have 'Top Gear'?,search_media
+Who owns 'The Great British Bake Off'?,search_media
+Where can I find 'Killing Eve'?,search_media
+Is 'Black Mirror' part of our collection?,search_media
+Do we own 'The Crown'?,search_media
+Can I watch 'Downton Abbey'?,search_media
+Where's 'The Blue Planet'?,search_media
+Do we have 'Torchwood'?,search_media
+Who owns 'Call the Midwife'?,search_media
+Where can I find 'Line of Duty'?,search_media
+Is 'The IT Crowd' in our collection?,search_media
+Do we own 'Fawlty Towers'?,search_media
+Can I watch 'The Bodyguard'?,search_media
+Where's 'The Thick of It'?,search_media
+Do we have 'Spooks'?,search_media
+Who owns 'The Vicar of Dibley'?,search_media
+Where can I find 'Pride and Prejudice (1995)'?,search_media
+Is 'The Night Manager' part of our collection?,search_media
+Do we own 'The Outlaws'?,search_media
+Do we have 'Starfield'?,search_media
+Where's 'Baldur's Gate 3'?,search_media
+Can I play 'Spider-Man 2'?,search_media
+Who owns 'Hogwarts Legacy'?,search_media
+Is 'The Legend of Zelda: Tears of the Kingdom' in our collection?,search_media
+Do we have 'Elden Ring'?,search_media
+Where can I find 'Final Fantasy XVI'?,search_media
+Is 'Diablo IV' part of our collection?,search_media
+Do we own 'Armored Core VI'?,search_media
+Can I play 'Alan Wake 2'?,search_media
+Where's 'Cyberpunk 2077: Phantom Liberty'?,search_media
+Do we have 'Lies of P'?,search_media
+Who owns 'Street Fighter 6'?,search_media
+Is 'Mortal Kombat 1' in our collection?,search_media
+Do we have 'Pikmin 4'?,search_media
+Where can I find 'Remnant 2'?,search_media
+Can I play 'Forza Motorsport'?,search_media
+Do we own 'Assassin's Creed Mirage'?,search_media
+Where's 'Hades II'?,search_media
+Is 'Payday 3' part of our collection?,search_media
+Do we have 'The Callisto Protocol'?,search_media
+Who owns 'Dead Space (2023)'?,search_media
+Can I play 'Returnal'?,search_media
+Where's 'Hi-Fi Rush'?,search_media
+Do we have 'Sonic Superstars'?,search_media
+Where's 'The Great Gatsby'?,search_media
+Do we still have 'Gone Girl'?,search_media
+Who borrowed 'The Catcher in the Rye'?,search_media
+Is 'The Hobbit' still here?,search_media
+Where's 'The Matrix' DVD?,search_media
+Do we have 'Harry Potter and the Sorcerer's Stone'?,search_media
+Who has 'Cyberpunk 2077'?,search_media
+Where's 'Blade Runner 2049'?,search_media
+Is 'The Hunger Games' still around?,search_media
+Who borrowed 'The Fault in Our Stars'?,search_media
+Where's 'The Avengers'?,search_media
+Do we still have 'The Road'?,search_media
+Who has 'Inside Out'?,search_media
+Where's 'The Subtle Art of Not Giving a F*ck'?,search_media
+Is 'The Lion King' still here?,search_media
+Who borrowed 'The Shining'?,search_media
+Where's 'The Kite Runner'?,search_media
+Do we have 'The Godfather'?,search_media
+Who has 'Frozen'?,search_media
+Where's 'Moana'?,search_media
+Is 'The Crown' still available?,search_media
+Who borrowed 'Downton Abbey'?,search_media
+Where's 'The Blue Planet'?,search_media
+Do we still have 'Torchwood'?,search_media
+Who has 'Call the Midwife'?,search_media
+user_input,search_media
+Where is 'Dune'?,search_media
+Do we have 'Gone Girl'?,search_media
+Who owns 'The Hobbit'?,search_media
+Is 'Inside Out' on DVD?,search_media
+Do we own 'Sunrise on the Reaping'?,search_media
+Is 'Cyberpunk 2077' on PS5?,search_media
+Do we have 'The Great Gatsby' as an audiobook?,search_media
+Is 'Super Mario Odyssey' a Switch game?,search_media
+Where’s 'Inception' Blu-ray?,search_media
+Who owns 'The Martian'?,search_media
+Is 'Dune' lost?,search_media
+Do we share ownership of 'The Witcher 3'?,search_media
+Is 'Becoming' an audiobook by Brenna?,search_media
+Where is 'Frozen II' DVD?,search_media
+Do we own 'The Expanse' book series?,search_media
+Is 'Halo Infinite' available on Xbox?,search_media
+Who owns 'Ready Player One' audiobook?,search_media
+Is 'The Mandalorian' on DVD?,search_media
+Where is 'Call of Duty' PS5 game?,search_media
+Do we have 'Normal People' as an audiobook?,search_media
+Who owns 'Dark Souls' on Steam?,search_media
+Is 'The Alchemist' book lost?,search_media
+Do we own 'Spider-Man: Miles Morales' on PS5?,search_media
+Where is 'The Queen’s Gambit' DVD?,search_media
+Is 'Educated' audiobook Brenna’s?,search_media
+Do we have 'Animal Crossing' on Switch?,search_media
+Where is 'Blade Runner 2049' Blu-ray?,search_media
+Who owns 'Harry Potter' Kindle edition?,search_media
+Is 'The Office' DVD set complete?,search_media
+Do we share 'Overwatch' on Steam?,search_media
+Is 'Becoming' audiobook lost?,search_media
+Who owns 'The Witcher 3' on PS5?,search_media
+Is 'Call of Duty' Switch game available?,search_media
+Where is 'Breaking Bad' DVD?,search_media
+Do we have 'Dune' audiobook?,search_media
+Who owns 'Super Mario Odyssey' Switch game?,search_media
+Is 'Halo Infinite' Steam game lost?,search_media
+Do we have 'The Great Gatsby' book?,search_media
+user_input,search_media
+Where can I find the audiobook 'The Silent Patient'?,search_media
+Is 'Stranger Things' DVD available?,search_media
+Do we own 'Death Stranding' on PS5?,search_media
+Who has 'Educated' audiobook?,search_media
+Is 'The Witcher 3' lost or available?,search_media
+Do we share ownership of 'Cyberpunk 2077'?,search_media
+Is 'The Alchemist' hardcover in the bedroom?,search_media
+Where is Tom's copy of 'Inception' DVD?,search_media
+Who owns the 'Harry Potter' Kindle editions?,search_media
+Do we have 'Super Mario Odyssey' on Switch?,search_media
+Is 'Dune' available as an audiobook?,search_media
+Do we have 'The Expanse' book series?,search_media
+Is 'Halo Infinite' on Steam or Xbox?,search_media
+Where is 'The Queen’s Gambit' DVD?,search_media
+Do we own 'Call of Duty' on PS5?,search_media
+Is 'Becoming' audiobook lost?,search_media
+Who owns 'Dark Souls' on Steam?,search_media
+Where can I find 'Normal People' audiobook?,search_media
+Is 'The Office' DVD set complete?,search_media
+Do we share 'Overwatch' on Steam?,search_media
+Where is the 'Frozen II' DVD?,search_media
+Who owns the 'Ready Player One' audiobook?,search_media
+Is 'Spider-Man: Miles Morales' PS5 game available?,search_media
+Do we have 'Animal Crossing' on Switch?,search_media
+Is 'Blade Runner 2049' Blu-ray lost?,search_media
+Do we own 'The Great Gatsby' hardcover?,search_media
+Is 'Gone Girl' book missing?,search_media
+Who owns 'The Martian' Kindle edition?,search_media
+Is 'Breaking Bad' DVD in the media binder?,search_media
+Do we have 'The Hobbit' audiobook?,search_media
+Where is 'Cyberpunk 2077' PS5 game?,search_media
+Is 'Dune' hardcover lost or available?,search_media
+Who owns 'The Witcher 3' Steam copy?,search_media
+Is 'Educated' audiobook on Brenna’s phone?,search_media
+Do we have 'Super Mario Odyssey' in the game cabinet?,search_media
+Where is 'Halo Infinite' Steam game?,search_media
+Is 'The Alchemist' hardcover missing?,search_media
+Who owns 'Call of Duty' PS5?,search_media
+Do we have 'Normal People' audiobook?,search_media
+Is 'The Office' DVD set owned by Brenna?,search_media
+Where is 'Overwatch' Steam account?,search_media
+Is 'The Silent Patient' audiobook Brenna's?,search_media
+Do we have 'Death Stranding' PS5 game?,search_media
+Who owns 'Stranger Things' DVD?,search_media
+Is 'Blade Runner 2049' Blu-ray with Brenna?,search_media
+user_input,search_media
+"Hey\, wheres the book Dune?",search_media
+Do we have Animal Crossing?,search_media
+Is The Last of Us Part II a movie or a game?,search_media
+Do we own Harry Potter and the Sorcerers Stone?,search_media
+Where can I find Blade Runner 2049?,search_media
+Can I play Cyberpunk 2077 on the PS5?,search_media
+Which Switch games does Brenna have?,search_media
+Whats the format for Pride and Prejudice?,search_media
+Do we still have The Matrix DVD?,search_media
+Do we have an audiobook version of Dune too?,search_media
+Who owns Red Dead Redemption 2?,search_media
+Where can I listen to Educated?,search_media
+Do we have Stardew Valley anywhere?,search_media
+Is The Hobbit a real book or digital?,search_media
+Wheres our copy of Interstellar?,search_media
+What kind of media is Becoming?,search_media
+Does Tom have any digital games?,search_media
+Wheres Hades saved?,search_media
+Do we own any books by Jane Austen?,search_media
+Is Ghost of Tsushima in our collection?,search_media
+Is Gone Girl still around?,search_media
+Who owns Celeste?,search_media
+Do we both have access to The Witcher 3?,search_media
+Did we lose The Great Gatsby?,search_media
+Wheres Inside Out?,search_media
+Can I find The Subtle Art of Not Giving a F*ck somewhere?,search_media
+Who owns Mario Kart?,search_media
+Do we have The Catcher in the Rye?,search_media
+Wheres The Legend of Zelda: Breath of the Wild?,search_media
+Can I watch Inception?,search_media
+Do we own The Alchemist?,search_media
+Who has Hollow Knight?,search_media
+Where can I find Frozen?,search_media
+Is 1984 still in our collection?,search_media
+Do we have The Godfather?,search_media
+Can I listen to Atomic Habits?,search_media
+Wheres Super Mario Odyssey?,search_media
+Do we still have The Hunger Games?,search_media
+Who owns Portal 2?,search_media
+Where can I watch The Lion King?,search_media
+Do we have The Road?,search_media
+Can I play Overwatch?,search_media
+Wheres Moana?,search_media
+Do we own The Shining?,search_media
+Who has Dark Souls III?,search_media
+Where can I find Coco?,search_media
+Is The Kite Runner in our collection?,search_media
+Do we have Sekiro: Shadows Die Twice?,search_media
+Can I listen to Becoming?,search_media
+Wheres The Avengers?,search_media
+Do we still have The Fault in Our Stars?,search_media
+Who owns Minecraft?,search_media
+Do we have Sherlock on DVD?,search_media
+Where can I find Doctor Who?,search_media
+Is Luther in our collection?,search_media
+Do we own The Office (UK)?,search_media
+Can I watch Peaky Blinders?,search_media
+Wheres Planet Earth?,search_media
+Do we have Top Gear?,search_media
+Who owns The Great British Bake Off?,search_media
+Where can I find Killing Eve?,search_media
+Is Black Mirror part of our collection?,search_media
+Do we own The Crown?,search_media
+Can I watch Downton Abbey?,search_media
+Wheres The Blue Planet?,search_media
+Do we have Torchwood?,search_media
+Who owns Call the Midwife?,search_media
+Where can I find Line of Duty?,search_media
+Is The IT Crowd in our collection?,search_media
+Do we own Fawlty Towers?,search_media
+Can I watch The Bodyguard?,search_media
+Wheres The Thick of It?,search_media
+Do we have Spooks?,search_media
+Who owns The Vicar of Dibley?,search_media
+Where can I find Pride and Prejudice (1995)?,search_media
+Is The Night Manager part of our collection?,search_media
+Do we own The Outlaws?,search_media
+Do we have Starfield?,search_media
+Wheres Baldurs Gate 3?,search_media
+Can I play Spider-Man 2?,search_media
+Who owns Hogwarts Legacy?,search_media
+Is The Legend of Zelda: Tears of the Kingdom in our collection?,search_media
+Do we have Elden Ring?,search_media
+Where can I find Final Fantasy XVI?,search_media
+Is Diablo IV part of our collection?,search_media
+Do we own Armored Core VI?,search_media
+Can I play Alan Wake 2?,search_media
+Wheres Cyberpunk 2077: Phantom Liberty?,search_media
+Do we have Lies of P?,search_media
+Who owns Street Fighter 6?,search_media
+Is Mortal Kombat 1 in our collection?,search_media
+Do we have Pikmin 4?,search_media
+Where can I find Remnant 2?,search_media
+Can I play Forza Motorsport?,search_media
+Do we own Assassins Creed Mirage?,search_media
+Wheres Hades II?,search_media
+Is Payday 3 part of our collection?,search_media
+Do we have The Callisto Protocol?,search_media
+Who owns Dead Space (2023)?,search_media
+Can I play Returnal?,search_media
+Wheres Hi-Fi Rush?,search_media
+Do we have Sonic Superstars?,search_media
+Wheres The Great Gatsby?,search_media
+Do we still have Gone Girl?,search_media
+Who borrowed The Catcher in the Rye?,search_media
+Is The Hobbit still here?,search_media
+Wheres The Matrix DVD?,search_media
+Do we have Harry Potter and the Sorcerers Stone?,search_media
+Who has Cyberpunk 2077?,search_media
+Wheres Blade Runner 2049?,search_media
+Is The Hunger Games still around?,search_media
+Who borrowed The Fault in Our Stars?,search_media
+Wheres The Avengers?,search_media
+Do we still have The Road?,search_media
+Who has Inside Out?,search_media
+Wheres The Subtle Art of Not Giving a F*ck?,search_media
+Is The Lion King still here?,search_media
+Who borrowed The Shining?,search_media
+Wheres The Kite Runner?,search_media
+Do we have The Godfather?,search_media
+Who has Frozen?,search_media
+Wheres Moana?,search_media
+Is The Crown still available?,search_media
+Who borrowed Downton Abbey?,search_media
+Wheres The Blue Planet?,search_media
+Do we still have Torchwood?,search_media
+Who has Call the Midwife?,search_media
+user_input,search_media
+Where is Dune?,search_media
+Do we have Gone Girl?,search_media
+Who owns The Hobbit?,search_media
+Is Inside Out on DVD?,search_media
+Do we own Sunrise on the Reaping?,search_media
+Is Cyberpunk 2077 on PS5?,search_media
+Do we have The Great Gatsby as an audiobook?,search_media
+Is Super Mario Odyssey a Switch game?,search_media
+Where’s Inception Blu-ray?,search_media
+Who owns The Martian?,search_media
+Is Dune lost?,search_media
+Do we share ownership of The Witcher 3?,search_media
+Is Becoming an audiobook by Brenna?,search_media
+Where is Frozen II DVD?,search_media
+Do we own The Expanse book series?,search_media
+Is Halo Infinite available on Xbox?,search_media
+Who owns Ready Player One audiobook?,search_media
+Is The Mandalorian on DVD?,search_media
+Where is Call of Duty PS5 game?,search_media
+Do we have Normal People as an audiobook?,search_media
+Who owns Dark Souls on Steam?,search_media
+Is The Alchemist book lost?,search_media
+Do we own Spider-Man: Miles Morales on PS5?,search_media
+Where is The Queen’s Gambit DVD?,search_media
+Is Educated audiobook Brenna’s?,search_media
+Do we have Animal Crossing on Switch?,search_media
+Where is Blade Runner 2049 Blu-ray?,search_media
+Who owns Harry Potter Kindle edition?,search_media
+Is The Office DVD set complete?,search_media
+Do we share Overwatch on Steam?,search_media
+Is Becoming audiobook lost?,search_media
+Who owns The Witcher 3 on PS5?,search_media
+Is Call of Duty Switch game available?,search_media
+Where is Breaking Bad DVD?,search_media
+Do we have Dune audiobook?,search_media
+Who owns Super Mario Odyssey Switch game?,search_media
+Is Halo Infinite Steam game lost?,search_media
+Do we have The Great Gatsby book?,search_media
+user_input,search_media
+Where can I find the audiobook The Silent Patient?,search_media
+Is Stranger Things DVD available?,search_media
+Do we own Death Stranding on PS5?,search_media
+Who has Educated audiobook?,search_media
+Is The Witcher 3 lost or available?,search_media
+Do we share ownership of Cyberpunk 2077?,search_media
+Is The Alchemist hardcover in the bedroom?,search_media
+Where is Toms copy of Inception DVD?,search_media
+Who owns the Harry Potter Kindle editions?,search_media
+Do we have Super Mario Odyssey on Switch?,search_media
+Is Dune available as an audiobook?,search_media
+Do we have The Expanse book series?,search_media
+Is Halo Infinite on Steam or Xbox?,search_media
+Where is The Queen’s Gambit DVD?,search_media
+Do we own Call of Duty on PS5?,search_media
+Is Becoming audiobook lost?,search_media
+Who owns Dark Souls on Steam?,search_media
+Where can I find Normal People audiobook?,search_media
+Is The Office DVD set complete?,search_media
+Do we share Overwatch on Steam?,search_media
+Where is the Frozen II DVD?,search_media
+Who owns the Ready Player One audiobook?,search_media
+Is Spider-Man: Miles Morales PS5 game available?,search_media
+Do we have Animal Crossing on Switch?,search_media
+Is Blade Runner 2049 Blu-ray lost?,search_media
+Do we own The Great Gatsby hardcover?,search_media
+Is Gone Girl book missing?,search_media
+Who owns The Martian Kindle edition?,search_media
+Is Breaking Bad DVD in the media binder?,search_media
+Do we have The Hobbit audiobook?,search_media
+Where is Cyberpunk 2077 PS5 game?,search_media
+Is Dune hardcover lost or available?,search_media
+Who owns The Witcher 3 Steam copy?,search_media
+Is Educated audiobook on Brenna’s phone?,search_media
+Do we have Super Mario Odyssey in the game cabinet?,search_media
+Where is Halo Infinite Steam game?,search_media
+Is The Alchemist hardcover missing?,search_media
+Who owns Call of Duty PS5?,search_media
+Do we have Normal People audiobook?,search_media
+Is The Office DVD set owned by Brenna?,search_media
+Where is Overwatch Steam account?,search_media
+Is The Silent Patient audiobook Brennas?,search_media
+Do we have Death Stranding PS5 game?,search_media
+Who owns Stranger Things DVD?,search_media
+Is Blade Runner 2049 Blu-ray with Brenna?,search_media
+"Do we have The Matrix on DVD, and is it Tom's copy?",search_media
+Where is The Hobbit audiobook?,search_media
+"Is there a PS5 game\, God of War Ragnarok\, around?",search_media
+Can I find the game Stardew Valley on Steam?,search_media
+Where's the book 1984?,search_media
+Has anyone seen Inception on Blu-ray?,search_media
+Do we own The Witcher 3 on Switch?,search_media
+Is there a DVD of Interstellar?,search_media
+Do we have an audiobook of Harry Potter and the Sorcerer's Stone?,search_media
+Where is the Blu-ray of Avatar?,search_media
+Avatar the last airbender,search_media
+Blade Runner 2049,search_media
+Halo Infinite,search_media
+The Alchemist,search_media
+Call of Duty,search_media
+Normal People,search_media
+The Office,search_media
+Overwatch,search_media
+The Silent Patient,search_media
+Death Stranding,search_media
+Stranger Things,search_media
+The Matrix,search_media
+The Hobbit,search_media
+God of War Ragnarok,search_media
+Stardew Valley,search_media
+1984,search_media
+Inception,search_media
+The Witcher 3,search_media
+Interstellar,search_media
+Harry Potter and the Sorcerer's Stone,search_media
+Avatar,search_media
+Avatar the Last Airbender,search_media
+Super Mario Odyssey,search_media
+The Witcher 3,search_media
+Jurassic Park,search_media
+The Catcher in the Rye,search_media
+The Shawshank Redemption,search_media
+The Godfather,search_media
+The Dark Knight,search_media
+Pulp Fiction,search_media
+Forrest Gump,search_media
+The Lord of the Rings: The Return of the King,search_media
+Inception,search_media
+Fight Club,search_media
+Forrest Gump,search_media
+The Matrix,search_media
+The Empire Strikes Back,search_media
+"The Good, the Bad and the Ugly",search_media
+The Lion King,search_media
+The Dark Knight Rises,search_media
+Gladiator,search_media
+Titanic,search_media
+The Prestige,search_media
+The Departed,search_media
+Goodfellas,search_media
+Back to the Future,search_media
+Star Wars: A New Hope,search_media
+The Godfather Part II,search_media
+Schindler’s List,search_media
+The Silence of the Lambs,search_media
+Jurassic Park,search_media
+Add 'Granny Square Sourcebook',add_media
+Add 'The Hobbit',add_media
+Add 'Pride and Prejudice',add_media
+Add 'To Kill a Mockingbird',add_media
+Add '1984',add_media
+Add 'Moby Dick',add_media
+Add 'War and Peace',add_media
+Add 'The Catcher in the Rye',add_media
+Add 'Little Women',add_media
+Add 'Great Expectations',add_media
+Add 'Jane Eyre',add_media
+Add 'The Odyssey',add_media
+Add 'Hamlet',add_media
+Add 'Macbeth',add_media
+Add 'The Divine Comedy',add_media
+Add 'Crime and Punishment',add_media
+Add 'Wuthering Heights',add_media
+Add 'The Picture of Dorian Gray',add_media
+Add 'Brave New World',add_media
+Add 'Anna Karenina',add_media
+Brenna recently added 'Dune' to the kitchen bookshelf,add_media
+Tom recently added 'Foundation' to the living room bookshelf,add_media
+Alice recently added 'The Expanse' to the bedroom bookshelf,add_media
+David recently added 'Neuromancer' to the office bookshelf,add_media
+Sarah recently added 'Snow Crash' to the study bookshelf,add_media
+Mark recently added 'Hyperion' to the kitchen bookshelf,add_media
+Emma recently added 'The Martian' to the living room bookshelf,add_media
+John recently added 'Ender's Game' to the bedroom bookshelf,add_media
+Lucy recently added 'Ringworld' to the office bookshelf,add_media
+Paul recently added 'Fahrenheit 451' to the study bookshelf,add_media
+Nina recently added 'Do Androids Dream of Electric Sheep?' to the kitchen bookshelf,add_media
+Oscar recently added 'Solaris' to the living room bookshelf,add_media
+Clara recently added 'A Canticle for Leibowitz' to the bedroom bookshelf,add_media
+Ethan recently added 'The Left Hand of Darkness' to the office bookshelf,add_media
+Liam recently added 'Red Mars' to the study bookshelf,add_media
+Sophia recently added 'Childhood's End' to the kitchen bookshelf,add_media
+Mia recently added 'The Moon is a Harsh Mistress' to the living room bookshelf,add_media
+Noah recently added 'The Forever War' to the bedroom bookshelf,add_media
+Ava recently added 'Contact' to the office bookshelf,add_media
+Isabella recently added 'The Road' to the study bookshelf,add_media
+Brenna recently added the book 'Dracula' to the kitchen bookshelf.,add_media
+Tom recently added the book 'Frankenstein' to the living room bookshelf.,add_media
+Alice recently added the book 'The Shining' to the bedroom bookshelf.,add_media
+David recently added the book 'It' to the office bookshelf.,add_media
+Sarah recently added the book 'Pet Sematary' to the study bookshelf.,add_media
+Mark recently added the book 'Salem's Lot' to the kitchen bookshelf.,add_media
+Emma recently added the book 'Carrie' to the living room bookshelf.,add_media
+John recently added the book 'Misery' to the bedroom bookshelf.,add_media
+Lucy recently added the book 'The Stand' to the office bookshelf.,add_media
+Paul recently added the book 'Under the Dome' to the study bookshelf.,add_media
+Nina recently added the book 'Doctor Sleep' to the kitchen bookshelf.,add_media
+Oscar recently added the book 'The Institute' to the living room bookshelf.,add_media
+Clara recently added the book 'Gerald's Game' to the bedroom bookshelf.,add_media
+Ethan recently added the book 'Bag of Bones' to the office bookshelf.,add_media
+Liam recently added the book 'Lisey's Story' to the study bookshelf.,add_media
+Sophia recently added the book 'Revival' to the kitchen bookshelf.,add_media
+Mia recently added the book 'Needful Things' to the living room bookshelf.,add_media
+Noah recently added the book 'Different Seasons' to the bedroom bookshelf.,add_media
+Ava recently added the book 'Night Shift' to the office bookshelf.,add_media
+Isabella recently added the book 'Skeleton Crew' to the study bookshelf.,add_media
+Add 'The Iliad',add_media
+Add 'Don Quixote',add_media
+Add 'The Brothers Karamazov',add_media
+Add 'Les Misérables',add_media
+Add 'The Count of Monte Cristo',add_media
+Add 'Madame Bovary',add_media
+Add 'The Grapes of Wrath',add_media
+Add 'Catch-22',add_media
+Add 'Slaughterhouse-Five',add_media
+Add 'Beloved',add_media
+Add 'Invisible Man',add_media
+Add 'Things Fall Apart',add_media
+Add 'The Old Man and the Sea',add_media
+Add 'Heart of Darkness',add_media
+Add 'The Sound and the Fury',add_media
+Add 'Ulysses',add_media
+Add 'One Hundred Years of Solitude',add_media
+Add 'Love in the Time of Cholera',add_media
+Add 'The Stranger',add_media
+Add 'The Trial',add_media
+George recently added 'The Silmarillion' to the kitchen bookshelf,add_media
+Emma recently added 'Good Omens' to the living room bookshelf,add_media
+Lucas recently added 'American Gods' to the bedroom bookshelf,add_media
+Hannah recently added 'Neverwhere' to the office bookshelf,add_media
+James recently added 'Stardust' to the study bookshelf,add_media
+Clara recently added 'Coraline' to the kitchen bookshelf,add_media
+Michael recently added 'Anansi Boys' to the living room bookshelf,add_media
+Sophie recently added 'Jonathan Strange & Mr Norrell' to the bedroom bookshelf,add_media
+Daniel recently added 'The Name of the Wind' to the office bookshelf,add_media
+Olivia recently added 'The Wise Man's Fear' to the study bookshelf,add_media
+Henry recently added 'The Way of Kings' to the kitchen bookshelf,add_media
+Grace recently added 'Words of Radiance' to the living room bookshelf,add_media
+Ella recently added 'Oathbringer' to the bedroom bookshelf,add_media
+Jack recently added 'Rhythm of War' to the office bookshelf,add_media
+Amelia recently added 'Mistborn' to the study bookshelf,add_media
+Leo recently added 'The Alloy of Law' to the kitchen bookshelf,add_media
+Charlotte recently added 'Shadows of Self' to the living room bookshelf,add_media
+Benjamin recently added 'The Bands of Mourning' to the bedroom bookshelf,add_media
+Lily recently added 'Elantris' to the office bookshelf,add_media
+Samuel recently added 'Warbreaker' to the study bookshelf,add_media
+George recently added the book 'The Hunger Games' to the kitchen bookshelf.,add_media
+Emma recently added the book 'Catching Fire' to the living room bookshelf.,add_media
+Lucas recently added the book 'Mockingjay' to the bedroom bookshelf.,add_media
+Hannah recently added the book 'Divergent' to the office bookshelf.,add_media
+James recently added the book 'Insurgent' to the study bookshelf.,add_media
+Clara recently added the book 'Allegiant' to the kitchen bookshelf.,add_media
+Michael recently added the book 'The Maze Runner' to the living room bookshelf.,add_media
+Sophie recently added the book 'The Scorch Trials' to the bedroom bookshelf.,add_media
+Daniel recently added the book 'The Death Cure' to the office bookshelf.,add_media
+Olivia recently added the book 'The Kill Order' to the study bookshelf.,add_media
+Henry recently added the book 'The Fever Code' to the kitchen bookshelf.,add_media
+Grace recently added the book 'Ready Player One' to the living room bookshelf.,add_media
+Ella recently added the book 'Ready Player Two' to the bedroom bookshelf.,add_media
+Jack recently added the book 'Artemis' to the office bookshelf.,add_media
+Amelia recently added the book 'Project Hail Mary' to the study bookshelf.,add_media
+Leo recently added the book 'The Windup Girl' to the kitchen bookshelf.,add_media
+Charlotte recently added the book 'The Water Knife' to the living room bookshelf.,add_media
+Benjamin recently added the book 'Station Eleven' to the bedroom bookshelf.,add_media
+Lily recently added the book 'Sea of Tranquility' to the office bookshelf.,add_media
+Samuel recently added the book 'The Glass Hotel' to the study bookshelf.,add_media
+Brenna recently gave away 'Dracula',update_media_status
+Tom recently gave away 'The Hobbit',update_media_status
+Alice recently gave away 'Pride and Prejudice',update_media_status
+David recently gave away 'Dune',update_media_status
+Sarah recently gave away 'Neuromancer',update_media_status
+Mark recently gave away 'Moby Dick',update_media_status
+Emma recently gave away 'Frankenstein',update_media_status
+John recently gave away 'Ender’s Game',update_media_status
+Lucy recently gave away 'Little Women',update_media_status
+Paul recently gave away 'Ringworld',update_media_status
+Nina recently gave away 'The Odyssey',update_media_status
+Oscar recently gave away 'Hamlet',update_media_status
+Clara recently gave away 'Macbeth',update_media_status
+Ethan recently gave away 'The Divine Comedy',update_media_status
+Liam recently gave away 'War and Peace',update_media_status
+Sophia recently gave away 'Crime and Punishment',update_media_status
+Mia recently gave away 'The Left Hand of Darkness',update_media_status
+Noah recently gave away 'Red Mars',update_media_status
+Ava recently gave away 'The Road',update_media_status
+Isabella recently gave away 'The Shining',update_media_status
+George recently gave away 'The Hunger Games',update_media_status
+Hannah recently gave away 'Catching Fire',update_media_status
+Lucas recently gave away 'Mockingjay',update_media_status
+James recently gave away 'Divergent',update_media_status
+Olivia recently gave away 'Insurgent',update_media_status
+Henry recently gave away 'Allegiant',update_media_status
+Grace recently gave away 'The Maze Runner',update_media_status
+Ella recently gave away 'The Scorch Trials',update_media_status
+Jack recently gave away 'The Death Cure',update_media_status
+Amelia recently gave away 'Ready Player One',update_media_status
+Leo recently gave away 'Project Hail Mary',update_media_status
+Tom recently lost 'Avatar the Last Airbender',update_media_status
+Brenna recently lost 'The Hobbit',update_media_status
+Alice recently lost 'Pride and Prejudice',update_media_status
+David recently lost 'Dune',update_media_status
+Sarah recently lost 'Neuromancer',update_media_status
+Mark recently lost 'Moby Dick',update_media_status
+Emma recently lost 'Frankenstein',update_media_status
+John recently lost 'Ender’s Game',update_media_status
+Lucy recently lost 'Little Women',update_media_status
+Paul recently lost 'Ringworld',update_media_status
+Nina recently lost 'The Odyssey',update_media_status
+Oscar recently lost 'Hamlet',update_media_status
+Clara recently lost 'Macbeth',update_media_status
+Ethan recently lost 'The Divine Comedy',update_media_status
+Liam recently lost 'War and Peace',update_media_status
+Sophia recently lost 'Crime and Punishment',update_media_status
+Mia recently lost 'The Left Hand of Darkness',update_media_status
+Noah recently lost 'Red Mars',update_media_status
+Ava recently lost 'The Road',update_media_status
+Isabella recently lost 'The Shining',update_media_status
+George recently lost 'The Hunger Games',update_media_status
+Hannah recently lost 'Catching Fire',update_media_status
+Lucas recently lost 'Mockingjay',update_media_status
+James recently lost 'Divergent',update_media_status
+Olivia recently lost 'Insurgent',update_media_status
+Henry recently lost 'Allegiant',update_media_status
+Grace recently lost 'The Maze Runner',update_media_status
+Ella recently lost 'The Scorch Trials',update_media_status
+Jack recently lost 'The Death Cure',update_media_status
+Amelia recently lost 'Ready Player One',update_media_status
+Leo recently lost 'Project Hail Mary',update_media_status
+Brenna loaned 'Dracula' to Tom,update_media_status
+Tom loaned 'The Hobbit' to Alice,update_media_status
+Alice loaned 'Pride and Prejudice' to David,update_media_status
+David loaned 'Dune' to Sarah,update_media_status
+Sarah loaned 'Neuromancer' to Mark,update_media_status
+Mark loaned 'Moby Dick' to Emma,update_media_status
+Emma loaned 'Frankenstein' to John,update_media_status
+John loaned 'Ender’s Game' to Lucy,update_media_status
+Lucy loaned 'Little Women' to Paul,update_media_status
+Paul loaned 'Ringworld' to Nina,update_media_status
+Nina loaned 'The Odyssey' to Oscar,update_media_status
+Oscar loaned 'Hamlet' to Clara,update_media_status
+Clara loaned 'Macbeth' to Ethan,update_media_status
+Ethan loaned 'The Divine Comedy' to Liam,update_media_status
+Liam loaned 'War and Peace' to Sophia,update_media_status
+Sophia loaned 'Crime and Punishment' to Mia,update_media_status
+Mia loaned 'The Left Hand of Darkness' to Noah,update_media_status
+Noah loaned 'Red Mars' to Ava,update_media_status
+Ava loaned 'The Road' to Isabella,update_media_status
+Isabella loaned 'The Shining' to George,update_media_status
+George loaned 'The Hunger Games' to Hannah,update_media_status
+Hannah loaned 'Catching Fire' to Lucas,update_media_status
+Lucas loaned 'Mockingjay' to James,update_media_status
+James loaned 'Divergent' to Olivia,update_media_status
+Olivia loaned 'Insurgent' to Henry,update_media_status
+Henry loaned 'Allegiant' to Grace,update_media_status
+Grace loaned 'The Maze Runner' to Ella,update_media_status
+Ella loaned 'The Scorch Trials' to Jack,update_media_status
+Jack loaned 'The Death Cure' to Amelia,update_media_status
+Amelia loaned 'Ready Player One' to Leo,update_media_status
+Leo loaned 'Project Hail Mary' to Charlotte,update_media_status
+Charlotte loaned 'The Iliad' to Benjamin,update_media_status
+Benjamin loaned 'Don Quixote' to Lily,update_media_status
+Lily loaned 'The Brothers Karamazov' to Samuel,update_media_status
+Samuel loaned 'Les Misérables' to Brenna,update_media_status
+Brenna loaned 'The Count of Monte Cristo' to Tom,update_media_status
+Tom loaned 'Madame Bovary' to Alice,update_media_status
+Alice loaned 'The Grapes of Wrath' to David,update_media_status
+David loaned 'Catch-22' to Sarah,update_media_status
+Sarah loaned 'Slaughterhouse-Five' to Mark,update_media_status
+Mark loaned 'Beloved' to Emma,update_media_status
+Emma loaned 'Invisible Man' to John,update_media_status
+John loaned 'Things Fall Apart' to Lucy,update_media_status
+Lucy loaned 'The Old Man and the Sea' to Paul,update_media_status
+Paul loaned 'Heart of Darkness' to Nina,update_media_status
+Nina loaned 'The Sound and the Fury' to Oscar,update_media_status
+Oscar loaned 'Ulysses' to Clara,update_media_status
+Clara loaned 'One Hundred Years of Solitude' to Ethan,update_media_status
+Ethan loaned 'Love in the Time of Cholera' to Liam,update_media_status
+Liam loaned 'The Stranger' to Sophia,update_media_status
+Sophia loaned 'The Trial' to Mia,update_media_status
+Mia loaned 'Fahrenheit 451' to Noah,update_media_status
+Noah loaned 'Do Androids Dream of Electric Sheep?' to Ava,update_media_status
+Ava loaned 'Solaris' to Isabella,update_media_status
+Isabella loaned 'A Canticle for Leibowitz' to George,update_media_status
+George loaned 'Childhood’s End' to Hannah,update_media_status
+Hannah loaned 'The Forever War' to Lucas,update_media_status
+Lucas loaned 'The Moon is a Harsh Mistress' to James,update_media_status
+James loaned 'Contact' to Olivia,update_media_status
+Olivia loaned 'The Martian' to Henry,update_media_status
+Henry loaned 'Foundation' to Grace,update_media_status
+Grace loaned 'Snow Crash' to Ella,update_media_status
+Ella loaned 'Hyperion' to Jack,update_media_status
