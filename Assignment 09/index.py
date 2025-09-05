@@ -16,6 +16,7 @@ with open('data/processed_convo_data.csv', 'r', encoding='utf-8') as f:
     for row in reader:
         index_to_response[int(row['index'])] = row['response']
 
+# Map predicted class index to intent name
 intent_index_to_name = {
     0: "add_media", 
     1: "search_media",
@@ -31,7 +32,7 @@ def chatbot():
         if user_input == 'quit':
             break
 
-    
+        # If we're awaiting a slot value, handle that first
         if dialog_state["awaiting"] and dialog_state["intent"] in ROUTES:
             slot = dialog_state["awaiting"]
             val = extract_add_media_slots(user_input).get(slot) or user_input
@@ -55,7 +56,7 @@ def chatbot():
         # Determine intent from user input directly
         intent = intent_index_to_name.get(predicted_intent, "chitchat")
 
-        # New add_media turn: fill what we can, then ask for missing
+        # New intent, fill what we can, then ask for missing
         slots = fill_slots_for_intent(intent, user_input)
         dialog_state["intent"] = intent
         dialog_state["slots"].update({k: v for k, v in slots.items() if v})
