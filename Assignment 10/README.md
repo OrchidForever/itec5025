@@ -89,3 +89,38 @@ Examples of these tests are as following:
 #### Low Confidence
 
 ![Low confidence](./proof/low_confidence.PNG)
+
+### How to Use
+
+The chatbot is designed to help you manage your media inventory. Here are the main functions you can use:
+
+1. **Find a Media Item**  
+   - Example:  
+     ```
+     User: Where is "The Great Gatsby"
+     Bot: Found one record: book The Great Gatsby located at basement owned by Brenna with a status Avalible.
+     ```
+   - The bot will search your inventory for the specified media item and return the result.
+
+2. **Update the Status of a Media Item**  
+   - Example:  
+     ```
+     User: Update the status of "The Great Gatsby" to "Lost"
+     Bot: Media "The Great Gatsby" status updated to 'lost'.
+     ```
+   - You can update the status of a media item (e.g., "Read", "Watching", "Completed", "Lost", "DNF").
+
+3. **Add a Media Item**  
+   - Example:  
+     ```
+     User: Add a new movie called "Inception"
+     Bot: The movie "Inception" was added successfully.
+     ```
+   - The bot will add the specified media item to your inventory.
+
+4. **Handle Low Confidence Results**  
+   - If the bot is unsure about your request (e.g., confidence below 80%), it will ask for clarification:  
+     ```
+     User: [ \int_{0}^{x} (3t^2 - 2t + 1) , dt = 10 ]
+     Bot: I'm sorry, I didn't understand that. Can you please rephrase?
+     ```
