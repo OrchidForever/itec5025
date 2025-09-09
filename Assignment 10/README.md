@@ -12,6 +12,8 @@ ITEC 5025
 
 This chatbot uses postgres. I use a dockerfile for my postgres database but didn't include it here. It is just a basic docker image of pgvector/pg:17. I can if needed proved the docker compose needed. It doesn't need to be pgvector but I am also using this image for a personal project that uses PGVector. 
 
+Thank you for the feedback in Week 8. This works a lot better I think and I am getting better results I think in general for what I want to use this for. 
+
 ## How to Run
 
 1. Navigate to the project directory:
