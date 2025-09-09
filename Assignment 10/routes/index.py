@@ -16,7 +16,7 @@ ROUTES = {
         "required": ["name", "status"],
     },
     "chitchat": {
-        "fn": lambda: "Let's chat! How can I assist you today with your media management?",
+        "fn": lambda: "I'm sorry, I didn't understand that. Can you please rephrase?",
         "required": [],
     },
 }

@@ -18,6 +18,7 @@ with open('data/processed_convo_data.csv', 'r', encoding='utf-8') as f:
 
 # Map predicted class index to intent name
 intent_index_to_name = {
+    -1: "chitchat",  # Default fallback intent
     0: "add_media", 
     1: "search_media",
     2: "update_media_status",
@@ -53,6 +54,9 @@ def chatbot():
         predicted_intent = tf.argmax(pred, axis=1).numpy()[0]
         print(f"[DEBUG] Predicted class index: {predicted_intent}")
         print(f"[DEBUG] Model confidence: {pred[0][predicted_intent]:.4f}")
+        # if confidence is low, default to chitchat
+        if pred[0][predicted_intent] < 0.8:
+            predicted_intent = -1
         # Determine intent from user input directly
         intent = intent_index_to_name.get(predicted_intent, "chitchat")
 
