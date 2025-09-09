@@ -1,0 +1,93 @@
+import re
+from routes.index import ROUTES
+
+PROMPTS = {
+    ("add_media", "name"): "What's the media name? (you can put it in quotes)",
+    ("add_media", "owner"): "Who is the owner?",
+    ("add_media", "location"): "Where is it located? (URL, file path, or bucket URI)",
+    ("add_media", "format"): "What is the media format?",
+    ("search_media", "name"): "Which media name are you looking for?",
+    ("search_media", "owner"): "Which owner are you interested in?",
+    ("search_media", "location"): "Which location are you interested in?",
+    ("search_media", "format"): "Which format are you interested in?",
+    ("update_media_status", "name"): "Which media item do you want to update?",
+    ("update_media_status", "status"): "What is the new status?"
+}
+
+def ask_for(slot, intent): 
+    return PROMPTS.get((intent, slot), f"I need {slot}:")
+
+URL_RE = re.compile(r'\b((?:https?://|s3://|gs://|wasbs://)[^\s]+)', re.I)
+PATH_RE = re.compile(r'(?<!\w)(?:[A-Za-z]:\\[^:*?"<>|]+|/[^ \t\n\r]+(?:/[^ \t\n\r]+)*)')
+BUCKET_RE = re.compile(r'\b(?:s3|gs)://[^\s]+', re.I)
+
+def extract_name(text: str):
+    # "Quoted Title"
+    q = re.search(r'"([^"]{2,200})"', text)
+    if q:
+        return q.group(1).strip()
+    # Title Case chunk (at least two words starting with caps)
+    m = re.search(r'\b([A-Z][a-zA-Z0-9]+(?:\s+[A-Z][a-zA-Z0-9]+){1,6})\b', text)
+    if m:
+        return m.group(1).strip()
+    # after name:
+    m = re.search(r'\bname\s*[:=-]\s*([^\n,]+)', text, re.I)
+    return m.group(1).strip() if m else None
+
+def extract_owner(text: str):
+    # by Alice / owner Bob / for Charlie
+    m = re.search(r'\b(?:by|owner|for)\s*[:=-]?\s*([A-Z][\w.&-]*(?:\s+[A-Z][\w.&-]*){0,3})', text, re.I)
+    if m:
+        return m.group(1).strip()
+    # fallback: first capitalized word not at start
+    m = re.search(r'(?<!^)\b([A-Z][a-z]+(?:\s+[A-Z][a-z]+){0,2})\b', text)
+    return m.group(1).strip() if m else None
+
+def extract_location(text: str):
+    for rx in (URL_RE, BUCKET_RE, PATH_RE):
+        m = rx.search(text)
+        if m:
+            return m.group(1) if m.groups() else m.group(0)
+    # after location:
+    m = re.search(r'\blocation\s*[:=-]\s*([^\n,]+)', text, re.I)
+    return m.group(1).strip() if m else None
+
+def extract_format(text: str):
+    m = re.search(r'\bformat\s*[:=-]\s*([^\n,]+)', text, re.I)
+    return m.group(1).strip() if m else None
+
+def extract_add_media_slots(text: str):
+    return {
+        "name": extract_name(text),
+        "owner": extract_owner(text),
+        "location": extract_location(text),
+        "format": extract_format(text),
+    }
+
+def extract_search_media_slots(text: str):
+    return {
+        "name": extract_name(text),
+        "owner": extract_owner(text),
+        "location": extract_location(text),
+        "format": extract_format(text),
+    }
+
+def extract_update_media_status_slots(text: str):
+    return {
+        "name": extract_name(text),
+        "status": re.search(r'\b(status|state)\s*[:=-]?\s*([a-zA-Z]+)', text, re.I).group(2) if re.search(r'\b(status|state)\s*[:=-]?\s*([a-zA-Z]+)', text, re.I) else None,
+    }
+
+
+def fill_slots_for_intent(intent: str, user_text: str):
+    if intent == "add_media":
+        return extract_add_media_slots(user_text)
+    elif intent == "search_media":
+        return extract_search_media_slots(user_text)
+    elif intent == "update_media_status":
+        return extract_update_media_status_slots(user_text)
+    return {}
+
+def missing_slots(intent: str, slots: dict):
+    req = ROUTES[intent]["required"]
+    return [k for k in req if not slots.get(k)]
