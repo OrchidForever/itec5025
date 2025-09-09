@@ -22,14 +22,13 @@ class PostgreSQLDatabase:
                 host=self.host,
                 port=self.port
             )
-            print("Connection to PostgreSQL database established.")
         except psycopg2.Error as e:
-            print(f"Error connecting to PostgreSQL database: {e}")
+            print(f"[Error]: Error connecting to PostgreSQL database: {e}")
             self.connection = None
 
     def add_media(self, title, format, owner, location):
         if self.connection is None:
-            print("No active database connection.")
+            print("[Error]: No active database connection.")
             return False
 
         try:
@@ -41,15 +40,14 @@ class PostgreSQLDatabase:
             cursor.execute(insert_query, (title, format, owner, location, "Available"))
             self.connection.commit()
             cursor.close()
-            print(f"Media '{title}' added successfully.")
             return True
         except psycopg2.Error as e:
-            print(f"Error adding media: {e}")
+            print(f"[Error]: Error adding media: {e}")
             return False
 
-    def search_media(self, name):
+    def search_media_by_name(self, name):
         if self.connection is None:
-            print("No active database connection.")
+            print("[Error]: No active database connection.")
             return []
 
         try:
@@ -62,12 +60,30 @@ class PostgreSQLDatabase:
             cursor.close()
             return results
         except psycopg2.Error as e:
-            print(f"Error searching media: {e}")
+            print(f"[Error]: Error searching media: {e}")
+            return []
+
+    def search_media_by_name_and_format(self, name, format):
+        if self.connection is None:
+            print("[Error]: No active database connection.")
+            return []
+
+        try:
+            cursor = self.connection.cursor()
+            search_query = sql.SQL("""
+                SELECT * FROM media WHERE title ILIKE %s AND format ILIKE %s
+            """)
+            cursor.execute(search_query, (f"%{name}%", f"%{format}%"))
+            results = cursor.fetchall()
+            cursor.close()
+            return results
+        except psycopg2.Error as e:
+            print(f"[Error]: Error searching media by name and format: {e}")
             return []
 
     def update_media_status(self, name, status):
         if self.connection is None:
-            print("No active database connection.")
+            print("[Error]:No active database connection.")
             return False
 
         try:
@@ -78,15 +94,32 @@ class PostgreSQLDatabase:
             cursor.execute(update_query, (status, f"%{name}%"))
             self.connection.commit()
             cursor.close()
-            print(f"Media '{name}' status updated to '{status}'.")
             return True
         except psycopg2.Error as e:
-            print(f"Error updating media status: {e}")
+            print(f"[Error]: Error updating media status: {e}")
+            return False
+
+    def update_media_status_by_name_and_format(self, name, format, status):
+        if self.connection is None:
+            print("[Error]: No active database connection.")
+            return False
+
+        try:
+            cursor = self.connection.cursor()
+            update_query = sql.SQL("""
+                UPDATE media SET status = %s WHERE title ILIKE %s AND format ILIKE %s
+            """)
+            cursor.execute(update_query, (status, f"%{name}%", f"%{format}%"))
+            self.connection.commit()
+            cursor.close()
+            return True
+        except psycopg2.Error as e:
+            print(f"[Error]: Error updating media status by name and format: {e}")
             return False
 
     def execute_query(self, query, params=None):
         if self.connection is None:
-            print("No active database connection.")
+            print("[Error]: No active database connection.")
             return None
 
         try:
@@ -99,13 +132,11 @@ class PostgreSQLDatabase:
             else:
                 self.connection.commit()
                 cursor.close()
-                print("Query executed successfully.")
         except psycopg2.Error as e:
-            print(f"Error executing query: {e}")
+            print(f"[Error]: Error executing query: {e}")
             return None
 
     def close(self):
         if self.connection:
             self.connection.close()
-            print("Connection to PostgreSQL database closed.")
             self.connection = None

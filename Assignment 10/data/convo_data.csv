@@ -485,6 +485,55 @@ The Godfather Part II,search_media
 Schindler’s List,search_media
 The Silence of the Lambs,search_media
 Jurassic Park,search_media
+Can you add little women?, add_media
+Can you add pride and prejudice?, add_media
+Can you add the great gatsby?, add_media
+Can you add moby dick?, add_media
+Can you add to kill a mockingbird?, add_media
+Can you add the catcher in the rye?, add_media
+Can you add 1984?, add_media
+Can you add brave new world?, add_media
+Can you add the hobbit?, add_media
+Can you add war and peace?, add_media
+Can you add anna karenina?, add_media
+Can you add crime and punishment?, add_media
+Can you add the brothers karamazov?, add_media
+Can you add jane eyre?, add_media
+Can you add wuthering heights?, add_media
+Can you add frankenstein?, add_media
+Can you add dracula?, add_media
+Can you add the odyssey?, add_media
+Can you add the iliad?, add_media
+Can you add les misérables?, add_media
+Can you add don quixote?, add_media
+Can you add the divine comedy?, add_media
+Can you add the picture of dorian gray?, add_media
+Can you add the scarlet letter?, add_media
+Can you add the adventures of huckleberry finn?, add_media
+Can you add the adventures of tom sawyer?, add_media
+Can you add great expectations?, add_media
+Can you add david copperfield?, add_media
+Can you add the count of monte cristo?, add_media
+Can you add a tale of two cities?, add_media
+Can you add 'The Art of Crochet Blankets'?,add_media
+Can you add 'Modern Crochet Bible'?,add_media
+Can you add 'Crochet Every Way Stitch Dictionary'?,add_media
+Can you add 'Tunisian Crochet Workshop'?,add_media
+Can you add 'Corner to Corner Crochet'?,add_media
+Can you add 'Crochet Stitch Dictionary'?,add_media
+Can you add 'The Crochet Answer Book'?,add_media
+Can you add 'Amigurumi World'?,add_media
+Can you add 'Edward's Menagerie'?,add_media
+Can you add 'Crochet One-Skein Wonders'?,add_media
+Can you add 'Big Book of Crochet Stitches'?,add_media
+Can you add 'The Complete Book of Crochet Stitch Designs'?,add_media
+Can you add 'Crochet for Beginners'?,add_media
+Can you add 'The Granny Square Book'?,add_media
+Can you add 'Mandalas to Crochet'?,add_media
+Can you add 'Crochet Workshop'?,add_media
+Can you add 'The Art of Tunisian Crochet'?,add_media
+Can you add 'Crochet Animal Rugs'?,add_media
+Can you add 'Boho Crochet'?,add_media
 Add 'Granny Square Sourcebook',add_media
 Add 'The Hobbit',add_media
 Add 'Pride and Prejudice',add_media
@@ -730,3 +779,63 @@ Olivia loaned 'The Martian' to Henry,update_media_status
 Henry loaned 'Foundation' to Grace,update_media_status
 Grace loaned 'Snow Crash' to Ella,update_media_status
 Ella loaned 'Hyperion' to Jack,update_media_status
+Can you update "Dune", update_media_status
+Can you update "Foundation", update_media_status
+Can you update "Hyperion", update_media_status
+Can you update "Neuromancer", update_media_status
+Can you update "Snow Crash", update_media_status
+Can you update "The Left Hand of Darkness", update_media_status
+Can you update "The Dispossessed", update_media_status
+Can you update "Brave New World", update_media_status
+Can you update "1984", update_media_status
+Can you update "Fahrenheit 451", update_media_status
+Can you update "The Martian", update_media_status
+Can you update "The Expanse", update_media_status
+Can you update "Ender's Game", update_media_status
+Can you update "Speaker for the Dead", update_media_status
+Can you update "Children of Time", update_media_status
+Can you update "The Three-Body Problem", update_media_status
+Can you update "The Dark Forest", update_media_status
+Can you update "Death's End", update_media_status
+Can you update "Red Mars", update_media_status
+Can you update "Green Mars", update_media_status
+Can you update "Blue Mars", update_media_status
+Can you update "The Moon is a Harsh Mistress", update_media_status
+Can you update "Stranger in a Strange Land", update_media_status
+Can you update "Starship Troopers", update_media_status
+Can you update "Old Man's War", update_media_status
+Can you update "The Forever War", update_media_status
+Can you update "Ringworld", update_media_status
+Can you update "Rendezvous with Rama", update_media_status
+Can you update "Childhood's End", update_media_status
+Can you update "A Canticle for Leibowitz", update_media_status
+Can you update dune, update_media_status
+Can you update foundation, update_media_status
+Can you update hyperion, update_media_status
+Can you update neuromancer, update_media_status
+Can you update snow crash, update_media_status
+Can you update the left hand of darkness, update_media_status
+Can you update the dispossessed, update_media_status
+Can you update brave new world, update_media_status
+Can you update 1984, update_media_status
+Can you update fahrenheit 451, update_media_status
+Can you update the martian, update_media_status
+Can you update the expanse, update_media_status
+Can you update ender's game, update_media_status
+Can you update speaker for the dead, update_media_status
+Can you update children of time, update_media_status
+Can you update the three-body problem, update_media_status
+Can you update the dark forest, update_media_status
+Can you update death's end, update_media_status
+Can you update red mars, update_media_status
+Can you update green mars, update_media_status
+Can you update blue mars, update_media_status
+Can you update the moon is a harsh mistress, update_media_status
+Can you update stranger in a strange land, update_media_status
+Can you update starship troopers, update_media_status
+Can you update old man's war, update_media_status
+Can you update the forever war, update_media_status
+Can you update ringworld, update_media_status
+Can you update rendezvous with rama, update_media_status
+Can you update childhood's end, update_media_status
+Can you update a canticle for leibowitz, update_media_status
